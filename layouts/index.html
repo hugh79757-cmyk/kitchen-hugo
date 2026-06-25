@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="kitchen-hero">
+  <span class="kitchen-deco d1">🍳</span>
+  <span class="kitchen-deco d2">🥘</span>
+  <span class="kitchen-deco d3">🧑‍🍳</span>
+  <div class="relative z-10 flex flex-col items-center text-center">
+    <span class="kitchen-hero-icon">🍳</span>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="subtitle mx-auto">{{ . }}</p>{{ end }}
+    {{ with .Params.description }}<p class="subtitle mx-auto">{{ . }}</p>{{ end }}
+  </div>
+</div>
+
+{{ $partial := print "home/" .Site.Params.homepage.layout ".html" }}
+{{ if templates.Exists ( printf "partials/%s" $partial ) }}
+  {{ partial $partial . }}
+{{ else }}
+  {{ partial "home/profile.html" . }}
+{{ end }}
+{{ end }}

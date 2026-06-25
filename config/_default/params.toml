@@ -3,7 +3,7 @@ defaultBackgroundImage = "/img/background.svg"
 
 colorScheme = "ocean"
 defaultAppearance = "light"
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = false
 
