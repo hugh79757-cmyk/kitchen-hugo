@@ -169,6 +169,8 @@ article:hover, .post-entry:hover {
 .ad-inarticle {
   display: block;
   margin: 32px 0;
+  min-height: 250px;
+  min-width: 300px;
 }
 .ad-leaderboard {
   margin: 24px auto;
