@@ -39,10 +39,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ![홈플래닛 에어프라이어 2L](https://ads-partners.coupang.com/image1/7nTYdDhoYGTthm4U7uaX5omQh1Zl6x9Xj1iMC42f-K5l5mVLr9kfR4QurDRmK40U1fozWeDXyMdfr-Cb9hyswZmsIaz63_nVOwSeoBorkz_Pr9k3asoIKZfyWDjsjfzlrllXcqv_oDT4ctsCOISDm8VyRfsxXsV7IFlGlyYpcVfNxR7pEActlo8WSmaeRi5IgrrqyKtcCVCQbcclYdCxVi6i6kq8BwNw7Natsb89fNNak6Im2Ez60W35xO7NKyDCEtxxfHe92AlQVVgeeJKuEG_nEE-f6xsaz0NokEZuJwrtNwmXRQ==)
 
-- **가격**: 29,890원
-- **용량**: 2L
-- **소재**: 플라스틱
-- **배송**: 로켓배송
+- <strong>가격</strong>: 29,890원
+- <strong>용량</strong>: 2L
+- <strong>소재</strong>: 플라스틱
+- <strong>배송</strong>: 로켓배송
 
 홈플래닛 에어프라이어는 소형 가전으로, 1~2인 가구에서 사용하기 적합합니다. 가성비가 뛰어나고, 간편한 조작으로 누구나 쉽게 사용할 수 있습니다. 냉동식품을 간편하게 조리할 수 있어, 바쁜 직장인에게 적합합니다. 또한, 로켓배송으로 빠르게 받아볼 수 있어 주말 요리에 유용합니다. 리뷰 평점도 4.7점으로 높은 만족도를 자랑합니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7405872679&itemId=19177957163&vendorItemId=86295906599&traceid=V0-153-787676d9b9cb15fc&requestid=20260530193008742012210143&token=31850C%7CMIXED)
 
@@ -50,10 +50,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ![자일렉 오븐 에어프라이어 18L, ZL-23AF](https://ads-partners.coupang.com/image1/G-HCdA3Ab-dZTZASG2IxnifCkFIK_72rqTUD7Ucc07CkgI38MTU8zlj8eOWjI0OrE9eD3Y1RriYJmhzoTGGKorYwbkpX8c6a0lEp8jT0sMqY16QBLMINZZHFrWRfE-kXTuUZvD5tpqXkbTc3BgUN0vG7ZeSGEJLtnKQvl1-8CkD1fLrlx7NQmDKrcTMdM1l6DzYhMPece5pm15XjfRLlfyoxn0ez7is0vzL4-9gtcrbOjhk5JbmjB2aDdUfNexDEy0-92HV9nSdMRVL1IhqLsRL4Cuii4zz-NnSo)
 
-- **가격**: 69,900원
-- **용량**: 18L
-- **소재**: 스테인리스
-- **배송**: 로켓배송
+- <strong>가격</strong>: 69,900원
+- <strong>용량</strong>: 18L
+- <strong>소재</strong>: 스테인리스
+- <strong>배송</strong>: 로켓배송
 
 자일렉 오븐 에어프라이어는 대용량 제품으로, 4인 이상의 가족에게 적합합니다. 다양한 요리를 동시에 할 수 있어, 바쁜 저녁시간에 유용합니다. 스테인리스 소재로 내구성이 뛰어나며, 세척도 간편합니다. 주말에 가족과 함께 다양한 요리를 즐기고 싶은 분에게 추천합니다. 로켓배송으로 신속하게 받을 수 있으며, 리뷰 평점도 4.5점으로 만족도가 높습니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8493338943&itemId=24578865965&vendorItemId=92919745825&traceid=V0-153-5dba029b8cc31396&clickBeacon=87690710-5c12-11f1-98fd-a859779c61e0%7E3&requestid=20260530193007540138403521&token=31850C%7CMIXED)
 

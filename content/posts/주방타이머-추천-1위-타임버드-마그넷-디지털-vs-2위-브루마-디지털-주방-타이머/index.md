@@ -15,13 +15,13 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 주방타이머를 선택할 때는 몇 가지 중요한 요소를 고려해야 합니다. 
 
-1. **타이머 기능**: 기본적으로 타이머의 최대 시간 설정이 얼마나 되는지가 중요합니다. 일반적으로 60분 이상 설정할 수 있는 제품이 좋습니다. 요리를 하면서 여러 가지 음식을 동시에 조리할 때 유용합니다.
+1. <strong>타이머 기능</strong>: 기본적으로 타이머의 최대 시간 설정이 얼마나 되는지가 중요합니다. 일반적으로 60분 이상 설정할 수 있는 제품이 좋습니다. 요리를 하면서 여러 가지 음식을 동시에 조리할 때 유용합니다.
    
-2. **디지털 vs 기계식**: 디지털 타이머는 정확한 시간 설정이 가능하고, LCD 화면으로 쉽게 확인할 수 있습니다. 반면 기계식 타이머는 배터리가 필요 없고, 직관적인 조작이 가능합니다. 개인의 요리 스타일에 따라 선택할 수 있습니다.
+2. <strong>디지털 vs 기계식</strong>: 디지털 타이머는 정확한 시간 설정이 가능하고, LCD 화면으로 쉽게 확인할 수 있습니다. 반면 기계식 타이머는 배터리가 필요 없고, 직관적인 조작이 가능합니다. 개인의 요리 스타일에 따라 선택할 수 있습니다.
 
-3. **부착 방식**: 자석이 부착된 제품은 냉장고나 금속 표면에 쉽게 붙일 수 있어 편리합니다. 특히 주방 공간이 협소한 경우 유용합니다.
+3. <strong>부착 방식</strong>: 자석이 부착된 제품은 냉장고나 금속 표면에 쉽게 붙일 수 있어 편리합니다. 특히 주방 공간이 협소한 경우 유용합니다.
 
-4. **디자인 및 크기**: 주방 인테리어와 조화를 이루는 디자인도 중요합니다. 크기가 너무 크면 공간을 차지할 수 있으므로, 적당한 크기를 선택하는 것이 좋습니다.
+4. <strong>디자인 및 크기</strong>: 주방 인테리어와 조화를 이루는 디자인도 중요합니다. 크기가 너무 크면 공간을 차지할 수 있으므로, 적당한 크기를 선택하는 것이 좋습니다.
 
 ## 한눈에 보는 비교표
 
@@ -37,10 +37,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ![타임버드 마그넷 디지털 쿠킹 타이머 5p](https://ads-partners.coupang.com/image1/pKHjnmBA-TXDsjfypEfkS_Ge_i6Aui8ZoOJV31TpGT37pnCfWrrxC_EKpcLsbFPQhj0DvvpfaLN14YsExb3LKyeaFIsXi0O5F5-qrgWAPHIFUahgdaX7T_Hi-ZvQy4reJyPUh9Jvw2uM_6qVsdS7LNc_sy_cuqeC6IixF6cLSXJTbepdwNImN3NHn0IA7e0FhH2rohPQKsTQGsdNkH_76PhX5jRfwP6sTelqtoB1v4BeQk0Pa5_yOG8ngTyFZ0jWNDO9cIHj2Jyoos5kbW0eUwOH9RGKRG7I)
 
-- **최대 타이머 설정**: 99분
-- **타입**: 디지털
-- **배송**: 로켓배송
-- **가격**: 32,800원
+- <strong>최대 타이머 설정</strong>: 99분
+- <strong>타입</strong>: 디지털
+- <strong>배송</strong>: 로켓배송
+- <strong>가격</strong>: 32,800원
 
 타임버드 마그넷 디지털 쿠킹 타이머는 주방에서 요리를 자주 하는 분들에게 최적의 선택입니다. 자석이 부착되어 있어 냉장고에 쉽게 붙일 수 있으며, 99분까지 설정할 수 있어 다양한 요리에 활용할 수 있습니다. 여러 개가 세트로 제공되어, 동시에 여러 요리를 할 때 유용합니다. 
 
@@ -50,10 +50,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ![브루마 디지털 주방 타이머](https://ads-partners.coupang.com/image1/LLh3BDKFy1qbFKsALJU3Un3pbmwJIvtTAWjxFS68CTAPXBbhSnCzJLhPFVcYNpBAfyeMSzFJBYMLf9GcJr3QcUKUX7LlpHJk76mLXCf4u7lrFFlPI09fm9xgqYoMXrpIcECpgrGnsctB4NqGt8eYHKNO19W6s-vZVBKWDyFTM31pMfVMYZUnhGPZ3Pil5IQxnNEFsdmpR0-JTNLaqFAAwfNTUKbwBXlRDkzjyIMPypISiU_odHCJbdxvK0imFZWm3icH_wSkPidXyuAhYP8c2uDTcsNWYXYQ)
 
-- **최대 타이머 설정**: 99분
-- **타입**: 디지털
-- **배송**: 로켓배송
-- **가격**: 17,000원
+- <strong>최대 타이머 설정</strong>: 99분
+- <strong>타입</strong>: 디지털
+- <strong>배송</strong>: 로켓배송
+- <strong>가격</strong>: 17,000원
 
 브루마 디지털 주방 타이머는 가격 대비 성능이 뛰어난 제품으로, 주방에서 시간을 정확하게 체크하고 싶은 분들에게 적합합니다. 99분까지 설정할 수 있어 다양한 요리에 활용할 수 있으며, 로켓배송으로 신속하게 받아볼 수 있습니다. 
 
@@ -78,9 +78,9 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 상황별 추천 정리
 
-- **가족과 함께 요리하는 시간을 즐기는 분**: 타임버드 마그넷 디지털 쿠킹 타이머
-- **가성비를 중시하는 분**: 브루마 디지털 주방 타이머
-- **기계식 타이머를 선호하는 분**: 요리 주방 타이머
+- <strong>가족과 함께 요리하는 시간을 즐기는 분</strong>: 타임버드 마그넷 디지털 쿠킹 타이머
+- <strong>가성비를 중시하는 분</strong>: 브루마 디지털 주방 타이머
+- <strong>기계식 타이머를 선호하는 분</strong>: 요리 주방 타이머
 
 로켓배송 표기 제품을 우선 고려하세요. 
 

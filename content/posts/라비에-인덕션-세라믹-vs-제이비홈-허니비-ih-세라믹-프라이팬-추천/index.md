@@ -37,11 +37,11 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ![제이비홈 허니비 IH 세라믹 프라이팬](https://ads-partners.coupang.com/image1/HEECdMEG-qmg8YHfHAlxPXmNSXJEFJXf8LDbUBrFBUqahp6oBypYqZRE47SLNSBvFUbkyK8aDn6scp62FsPlqRYo-VBaUq-CM0dnIMfq9vEmImEIAGaRlWmmlP7MVxflJt0WW5C1bkAvqxrUXmKVTujTKofQNrgYSTbPVCr-_TWyub9p7UCtIGwnjC2CmGRmOWm3TJ_uc8fOYbsUE3FQA_9Lj21c6W8e48po-SmpV_2vjTZBKmBpgaHC2MgxxTuwCOqhOd_CGM_zhWeVYz52HyXNM1vPuZEIBUo2a4rv6vT8ltmzifCV)
 
-- **가격**: 32,500원
-- **크기**: 28cm
-- **소재**: 세라믹
-- **호환 열원**: 인덕션
-- **배송**: 로켓배송
+- <strong>가격</strong>: 32,500원
+- <strong>크기</strong>: 28cm
+- <strong>소재</strong>: 세라믹
+- <strong>호환 열원</strong>: 인덕션
+- <strong>배송</strong>: 로켓배송
 
 제이비홈 허니비 IH 세라믹 프라이팬은 가격 대비 성능이 뛰어나며, 특히 로켓배송으로 빠른 배송이 가능합니다. 28cm 크기는 3~4인 가족의 요리에 적합하여, 일상적인 볶음이나 구이 요리에 최적입니다. 세라믹 코팅 덕분에 음식이 눌어붙지 않아 세척이 용이하며, 내구성 또한 뛰어난 편입니다. 다만, 고온에서의 사용은 피하는 것이 좋습니다. 이 제품은 매일 요리를 하는 주부에게 특히 추천합니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8488793567&itemId=24568847239&vendorItemId=91580881408&traceid=V0-153-357410a6c77f6353&clickBeacon=1c4b51c0-607e-11f1-96ea-c5619130fa67%7E3&requestid=20260605103018098296208990&token=31850C%7CMIXED)
 
@@ -49,11 +49,11 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ![쿡클린 IH 인덕션 오가닉블랙 세라믹 프라이팬세트](https://ads-partners.coupang.com/image1/bdJFj4lQcS2xh5nfbZggny7utTF6hx__mv8-iJqB8-LP3PJB1U0Yym-h52kvx5uMXQPLpTaPjWsOa5JfVtzOEH-zoj4JNxlDgGz_hDv3GGz2S4idvTOj4E2QFTW0sfUdbjvZ5_zmEDyagVTVikHJZ7IqwSe4g632-Rnp57FlC2teTfH8WoCv0SC-TV8_p2VyfQlKGmlahvMURvydtP0hxedg5pDi92r_vedeeyLAc9lGhjk7rJS3IeMCi7LyM8qUdvuX2NTYk16zGf_Mqq80IQl60mFxs5gcU87W1MPx-sJld3W17QNcqFY=)
 
-- **가격**: 69,250원
-- **크기**: 프라이팬 28cm + 웍팬 28cm
-- **소재**: 세라믹
-- **호환 열원**: 인덕션
-- **배송**: 무료배송
+- <strong>가격</strong>: 69,250원
+- <strong>크기</strong>: 프라이팬 28cm + 웍팬 28cm
+- <strong>소재</strong>: 세라믹
+- <strong>호환 열원</strong>: 인덕션
+- <strong>배송</strong>: 무료배송
 
 쿡클린 IH 인덕션 오가닉블랙 세라믹 프라이팬세트는 프라이팬과 웍팬이 포함된 세트로, 다양한 요리에 적합합니다. 28cm 크기는 적당한 양의 요리를 할 수 있어 가족 단위의 식사 준비에 유용합니다. 세라믹 코팅 덕분에 음식이 잘 눌어붙지 않으며, 세척도 간편합니다. 다만, 두 개의 팬이 포함되어 있어 가격이 상대적으로 높은 편입니다. 다양한 요리를 즐기는 가정에 적합합니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7912021174&itemId=21712793827&vendorItemId=88762164887&traceid=V0-153-ae268ef70f71ea96&clickBeacon=1c4b51c0-607e-11f1-9218-6a8fadf32ae6%7E3&requestid=20260605103018098296208990&token=31850C%7CMIXED)
 
@@ -61,11 +61,11 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ![라비에 인덕션 세라믹 코팅 플레이팅 후라이팬](https://ads-partners.coupang.com/image1/h-slzGtITskfD4Q4h2joRrJNgMzcavlTuicxefiokmcjgmN5GSC8vxSCOlhtSgqybLZ58seDKZrH_eIUAGBf-DcrR36xJB0LFSG3qYns9qFJmEjGkC2u8I6rhKnFFRAd79Zd1GQYgcQJn9huJf3fpIyGGFsJUz-z6IB7IXbSw8lqbYZO24K7JbDdVTtt2DmwSUIb8UAaeBmjKYegq1x4krRQ6dFmvrnMo-XaHIU1KsesKTcP6m3F7K_-sikEzpMO9JGHTBI_j0oL9ozuFNFbVmb96Uk9oW2DJ5jegoiZB2yn-d4hOeKtXx0=)
 
-- **가격**: 99,000원
-- **크기**: 31.5cm
-- **소재**: 세라믹
-- **호환 열원**: 인덕션
-- **배송**: 무료배송
+- <strong>가격</strong>: 99,000원
+- <strong>크기</strong>: 31.5cm
+- <strong>소재</strong>: 세라믹
+- <strong>호환 열원</strong>: 인덕션
+- <strong>배송</strong>: 무료배송
 
 라비에 인덕션 세라믹 코팅 플레이팅 후라이팬은 디자인이 독특하여 주방에서도 멋을 더해줍니다. 31.5cm의 넉넉한 크기는 여러 인원에게 적합하며, 세라믹 코팅으로 인해 요리가 쉽고 간편합니다. 다만, 가격이 상대적으로 높은 편이므로, 디자인과 성능을 동시에 고려하는 소비자에게 적합합니다. 주방 인테리어를 중시하는 분들에게 추천합니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9531916711&itemId=28426466215&vendorItemId=95377414258&traceid=V0-153-27e4a4e158d8284d&clickBeacon=1cefcf20-607e-11f1-81dd-cb178aa44f3e%7E3&requestid=20260605103019200296333074&token=31850C%7CMIXED)
 

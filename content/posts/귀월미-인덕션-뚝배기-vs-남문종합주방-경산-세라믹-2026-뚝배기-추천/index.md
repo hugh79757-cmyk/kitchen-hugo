@@ -35,28 +35,28 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 귀월미 인덕션 뚝배기 — 가성비 최고의 인덕션 뚝배기
 ![귀월미 인덕션 뚝배기](https://ads-partners.coupang.com/image1/qfM9VejFoiIJcsXnqVAmv8vZgrdVAfywOkIi2Qj8mQLS4Mhvle8Lc2bgzOwjVf6R-s2GkgeLFfk-eTRdY9n0pEAlPsAGHay6kqkURS_2eVUmvF1nZQg8mg442sCVF4msWR2RDJVqI_umh40EIAybdpg43gFb369e8hG1343Qh3DsjvwUeGgBac-YtiKmmuNitAcGSGnzViiwY021QOLsAgsCSJDFK4GHGI7MTTL_vlhNIHc1z73IbXGR-vLDFhmG-R1fUq9xF4nmEuMCmzCWOlbnLLDcKu2itOSJf0hL6pTqE1SI0VAcMFA=)
-- **용량/크기**: 18cm
-- **소재**: 도자기
-- **가격**: 38,500원
-- **배송**: 로켓배송
+- <strong>용량/크기</strong>: 18cm
+- <strong>소재</strong>: 도자기
+- <strong>가격</strong>: 38,500원
+- <strong>배송</strong>: 로켓배송
 
 귀월미 인덕션 뚝배기는 인덕션 전용으로 설계되어 있어, 빠르고 균일한 열 전달이 가능합니다. 매일 국이나 찌개를 끓이는 2~3인 가구에 적합하며, 18cm 크기로 부담 없이 사용하기 좋습니다. 리뷰 평점이 4.8점 이상으로 많은 사용자들로부터 높은 평가를 받고 있습니다. 로켓배송으로 빠르게 받아볼 수 있어 편리합니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9302262325&itemId=27557470467&vendorItemId=94521591018&traceid=V0-153-1571534f1667f104&clickBeacon=401a5cc0-654e-11f1-aff9-356ed832de52%7E3&requestid=20260611133018170317327986&token=31850C%7CMIXED)
 
 ## 2위: 귀월미 IH 직화 인덕션 뚝배기 — 다용도로 활용 가능한 뚝배기
 ![귀월미 IH 직화 인덕션 뚝배기](https://ads-partners.coupang.com/image1/69hPqEuGm3n-8KqL6_hw8Pp1hT6rRGZrV2QM1F-Q0TlUkR5TGZN7_KvAIIi6IzZV-LArZAx2mNDMjCpcWAlqo-iSrHuxwDuH6x9e0lpNop4ui5b__QHhk-WqRNgn0PEDg6MbfbTiRyJHPlO5Pj1cEzXjLQVhxRvmVfd4TcYo-RoSjMkXzFxnp25X9B2vDyQv_Mdl0MYnSJd0zeiAfuE0Ygej_XwrNjgZGFmnKFqJrh5iIrzBTK86CQEU-wPzNS2ZBVLdLK8y43tmChMph-tAXeWXmnbR3u5r0PJm6AxPEIiwzclp8yqGP4hwqYvdL4gwxqOjiWjsivaYobKCdwY-RkByp7YiyELQeFoa7A==)
-- **용량/크기**: 20cm
-- **소재**: 도자기
-- **가격**: 42,200원
-- **배송**: 로켓배송
+- <strong>용량/크기</strong>: 20cm
+- <strong>소재</strong>: 도자기
+- <strong>가격</strong>: 42,200원
+- <strong>배송</strong>: 로켓배송
 
 귀월미 IH 직화 인덕션 뚝배기는 20cm 크기로, 3~4인 가구에 적합합니다. 다양한 요리를 할 수 있는 다용도로 활용 가능하며, 인덕션과 가스레인지 모두에서 사용할 수 있는 장점이 있습니다. 주 3회 이상 국을 끓이는 가정이라면 꼭 필요한 제품입니다. 로켓배송으로 빠르게 받아볼 수 있어 매우 편리합니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9302270890&itemId=27557502323&vendorItemId=94521621952&traceid=V0-153-7654951200ff6657&clickBeacon=401a5cc0-654e-11f1-a0e6-79af4c56fd45%7E3&requestid=20260611133018170317327986&token=31850C%7CMIXED)
 
 ## 3위: 남문종합주방 경산 세라믹 — 업소용으로도 적합한 뚝배기
 ![남문종합주방 경산 세라믹](https://ads-partners.coupang.com/image1/mMVK9h6Rz7Oxl4TPmFU1zCpZOxUsy-6xd_OR6zv9TL31KI8m0OAd3T3JJQFLuGzxZ-5tjOHm2YVYhWyJUfHGXyeJHF1aY0MyrrlYdJLMfyBWP4Ilm_8FvEcGfhpDPsJDl_CeoV4rb7KFvz2zKoLhL-A2y9z2ot8q7w-a95d2Za3eOgnVJ-ckIHhuKoHBln3RATjmMEm_qrNGfgqr-qNoUfOBWBlsWZN8fvJbbCt8bqNoOD-d9dr0lH9VmHWDKwxTuexwjZjJJKdkWOHhqAKuEtEqFisiD79-nTVJvG7RYvJZKdCpwuQFxF130l8AFIN1xeYJ5URHPthCSv7ACWfAPdThF-eH5vtYRr-EVg==)
-- **용량/크기**: 17cm
-- **소재**: 세라믹
-- **가격**: 64,880원
-- **배송**: 무료배송
+- <strong>용량/크기</strong>: 17cm
+- <strong>소재</strong>: 세라믹
+- <strong>가격</strong>: 64,880원
+- <strong>배송</strong>: 무료배송
 
 남문종합주방 경산 세라믹 뚝배기는 17cm 크기로, 업소에서도 사용 가능한 내구성을 자랑합니다. 세라믹 소재로 열 보존력이 뛰어나고, 다양한 요리에 적합합니다. 특히, 삼계탕이나 찌개를 만드는 데 최적화되어 있어, 주말에 가족과 함께하는 식사에 적합합니다. 무료배송으로 더욱 경제적입니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8482474660&itemId=24646442002&vendorItemId=91657138715&traceid=V0-153-1f9d5ba926a47e58&clickBeacon=401a5cc0-654e-11f1-82c7-1aefdbf03478%7E3&requestid=20260611133018170317327986&token=31850C%7CMIXED)
 
@@ -79,9 +79,9 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 상황별 추천 정리
 
-- **주 3회 이상 국을 끓이는 2~3인 가족**: 귀월미 인덕션 뚝배기
-- **가족과 함께 하는 주말 요리**: 귀월미 IH 직화 인덕션 뚝배기
-- **업소에서 사용할 내구성 좋은 뚝배기**: 남문종합주방 경산 세라믹
+- <strong>주 3회 이상 국을 끓이는 2~3인 가족</strong>: 귀월미 인덕션 뚝배기
+- <strong>가족과 함께 하는 주말 요리</strong>: 귀월미 IH 직화 인덕션 뚝배기
+- <strong>업소에서 사용할 내구성 좋은 뚝배기</strong>: 남문종합주방 경산 세라믹
 
 로켓배송 표기 제품을 우선 고려하세요. 
 

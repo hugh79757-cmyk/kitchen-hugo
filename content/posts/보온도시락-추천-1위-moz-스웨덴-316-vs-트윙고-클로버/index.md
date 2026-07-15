@@ -37,28 +37,28 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: MOZ 스웨덴 316 — 스테인리스 일체형 대용량 보온도시락
 ![MOZ 스웨덴 316](https://ads-partners.coupang.com/image1/yThD9gCEN-9XldXZyS-p_-53HLUei6NkoLZ360ei7D5ib47iqrJBOV6iGreKajzppjdIvMFn2P77ghr3x-7pz9OT-HD0kqv8rvKheJ8UNE6LKyoWJ_AEln6K_b573C_olfPJk3lkoP1cQMwyu7mx37pkqZHBMVkIQpzCRiGUqPF3Ggq2bV52GzduvD2rlj5H2LCaxe2fbD7NAlteornB56Tmtp0Es-cqImdTyVa0a08R6dCRDsJO2MNrQNOI1lxBq-BMFfMAA7TBPc9JmZIM_tsOI8BapwfFBD2IOPLwlYu8VrvauAdgIYk1)
-- **용량**: 3단 대용량
-- **소재**: 스테인리스
-- **배송**: 로켓배송
-- **가격**: 70,000원
+- <strong>용량</strong>: 3단 대용량
+- <strong>소재</strong>: 스테인리스
+- <strong>배송</strong>: 로켓배송
+- <strong>가격</strong>: 70,000원
 
 MOZ 스웨덴 316 보온도시락은 3단으로 구성되어 있어 다양한 반찬을 담기에 적합합니다. 스테인리스 소재로 내구성이 뛰어나고, 6시간 이상 따뜻한 음식을 유지할 수 있는 성능을 자랑합니다. 매일 직장에 도시락을 가져가는 직장인이나, 아이의 도시락을 준비하는 부모님에게 적합합니다. 로켓배송으로 빠르게 받아볼 수 있으며, 리뷰도 높은 점수를 기록하고 있습니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8442870124&itemId=24422235833&vendorItemId=91436693205&traceid=V0-153-2e40cd3131cc5e7a&clickBeacon=3865b630-5fe7-11f1-8502-7795b746a728%7E3&requestid=20260604163011256217371626&token=31850C%7CMIXED)
 
 ## 2위: 트윙고 클로버 — 블랙에디션 보온도시락 5종 세트
 ![트윙고 클로버](https://ads-partners.coupang.com/image1/Ob6nP7MgpG5_-h_SORcVu7Ejvpl8jJMvW1_6vuJzGuv43uaZryqbHmPvtu4fV_-ZbUVGAN2CCuCAMXPJE0s9pWsgIzY2b5xIhQLTs1knKP-Q6hNyyvhUH1lfuXHWbTLib1c0DUEYYZ0QlYSJ3du_N39VA4kN9daG6rGPSE6cq82lsP3Lne69VEzUh6JeNWRG89Qo8c8FKJLLJhyhY4VoRzZf4b7-Qa9wlmF5spNSamYVw8Ai_H69w3Hsm8Gr0FsFMq_lNlyIPQrL4HTpDy_GMKpSdJBcqfSnXA==)
-- **용량**: 5종 세트
-- **소재**: 플라스틱
-- **배송**: 로켓배송
-- **가격**: 42,730원
+- <strong>용량</strong>: 5종 세트
+- <strong>소재</strong>: 플라스틱
+- <strong>배송</strong>: 로켓배송
+- <strong>가격</strong>: 42,730원
 
 트윙고 클로버 보온도시락은 블랙에디션으로 세련된 디자인을 자랑합니다. 5종 세트로 구성되어 있어 다양한 용도로 활용할 수 있으며, 가벼운 무게로 휴대하기 편리합니다. 주말 소풍이나 야외 활동 시 간편하게 사용할 수 있는 제품입니다. 로켓배송으로 빠르게 받아볼 수 있으며, 가격대비 성능이 뛰어난 선택입니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=6905745011&itemId=16623919962&vendorItemId=83808460931&traceid=V0-153-ac9a1084694492ec&clickBeacon=3865b630-5fe7-11f1-8363-a7723571ac1a%7E3&requestid=20260604163011256217371626&token=31850C%7CMIXED)
 
 ## 3위: MOZ 스웨덴 포스코 — 올스텐 보온도시락 3종 세트
 ![MOZ 스웨덴 포스코](https://ads-partners.coupang.com/image1/sprnMtNH8Bil-hAkslrJqr87HNE_wJ7d_NCyyH7bdxE-SHBdOVl2_4b4SaufpuWg2yDikG-I8jxmLFjhc9wU8Kc0pyvcdvHsKNe7aOZ5v0lD6O6-AZDfUHD8oDeHc_e76zJQBjamlw1Rlug8BjcsYgRO6n1XS7AiREX0ufHP8gsAWPdqyL8ci6otp_GNbRKK7ccip72TslF2DiKMlG30jRuHPNxFMPgDLBwsF-82dhsE2OyirKgwxw1qOCKAzJ9go5nf6muZY2M90vn3kE7Pdwi8UoIu0vlHr5cxP0o-YlzLqmHHHah5klQ=)
-- **용량**: 3종 도시락가방
-- **소재**: 스테인리스
-- **배송**: 로켓배송
-- **가격**: 70,000원
+- <strong>용량</strong>: 3종 도시락가방
+- <strong>소재</strong>: 스테인리스
+- <strong>배송</strong>: 로켓배송
+- <strong>가격</strong>: 70,000원
 
 MOZ 스웨덴 포스코 보온도시락은 3종 도시락가방과 함께 제공되어 매우 실용적입니다. 스테인리스 소재로 내구성이 뛰어나며, 보온 성능도 우수합니다. 직장인이나 학생들이 점심시간에 따뜻한 음식을 즐기기에 적합합니다. 로켓배송으로 빠르게 받아볼 수 있어 편리합니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8657681227&itemId=25197444889&vendorItemId=87933939941&traceid=V0-153-6c0955bfe4b094d8&clickBeacon=3865b630-5fe7-11f1-aa6f-9a7c8287af5f%7E3&requestid=20260604163011256217371626&token=31850C%7CMIXED)
 

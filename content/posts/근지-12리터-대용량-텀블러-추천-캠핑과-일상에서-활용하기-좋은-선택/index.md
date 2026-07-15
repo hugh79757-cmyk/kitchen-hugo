@@ -39,9 +39,9 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ![근지 1.2리터 대용량 텀블러](https://ads-partners.coupang.com/image1/QRNGfnzZeRRdTWrlQfRkg63q-biGxl_TMKtt0wE0DcFM25i4pt1Luh21StpSoDJOtrJxssJMD88Z7fuI4Hioz6_8XFe_WZEWA954ka_VGubEvS_bW6mKJoYsICPT2cHUr8XoAPLv1mgj3miEbUP5r0AOKC9x6Sxh9tHoL9xJ4v552OnSZusj1sjMV_fysmYKA3LMrL9gmLMD6UJcr59WDoZwSGgVwL72ITYuZmHU5WijjIJ70CvT5yvXBg4mJRDqErrEQd11NqbOx-MI8MSJF1pAYJMg093RBTHoyrwMcsdI1Eh2wubrlPdurw==)
 
-- **용량**: 1200ml
-- **가격**: 24,900원
-- **배송**: 로켓배송
+- <strong>용량</strong>: 1200ml
+- <strong>가격</strong>: 24,900원
+- <strong>배송</strong>: 로켓배송
 
 근지 1.2리터 대용량 텀블러는 차량용 및 캠핑용으로 매우 적합한 제품입니다. 이중 진공 구조로 인해 음료의 온도를 오랫동안 유지할 수 있어 여름철에 시원한 음료를 즐기기에 안성맞춤입니다. 1200ml의 큰 용량은 장시간 외출 시 충분한 양을 담을 수 있어 편리합니다. 
 
@@ -51,9 +51,9 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ![별이네집 대용량 스테인리스 텀블러](https://ads-partners.coupang.com/image1/5ZhcJUKjuHM9Un7K5eBncZUpOGo9dIeOHHf5b56AbbuRF6MLNd-LPq3PpTYjDE-m33-jSUUszEoumlUKi7XG5fnB7FTHzJcyCStgSWnmY0jFbLu2G3XUD4IS5RcCYEcxJ8wICx4qEL1xux2nZaKRbesBj2Bi0YP0jbyeZYZCX1wALuO2N4nfEb5zQyYw1g6B0_4vy1xxyF-DRwRJVwg1HvMMcUQ-rtYDs6_QyEbkZpqIcBV7fA69ENQHnVIay2yq4mUorVjOL5FwVrpt92p3676W-Z_M42zpiCOKJYIkc-hqt2CjdFjal_Sl)
 
-- **용량**: 1200ml
-- **가격**: 280,000원
-- **배송**: 무료배송
+- <strong>용량</strong>: 1200ml
+- <strong>가격</strong>: 280,000원
+- <strong>배송</strong>: 무료배송
 
 별이네집 대용량 스테인리스 텀블러는 다양한 부속품이 포함되어 있어 사용 편의성을 높여줍니다. 미끄럼 방지 캡과 빨대, 세척 도구가 함께 제공되어 실용성이 뛰어납니다. 1200ml의 용량은 캠핑이나 피크닉 시 충분한 음료를 담을 수 있어 가족 단위의 외출에 적합합니다.
 

@@ -36,30 +36,30 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 ## 1위: 쿠잉전자 미니 멀티쿠커 — 가성비 최강의 소형 전기냄비
 ![쿠잉전자 미니 멀티쿠커](https://ads-partners.coupang.com/image1/cGge4dsbDvdTb_IhcB_SZoEOr10Vy64xhs295YoiZH_hnDHRn0Kam4JUGjAKoo9NQgQKHQeIG3DqHMe5c9NHhY44cMBNSx7wDDeMTfdmXZT3KQw_kE2wWQzjgczLBib8jbx94jW92qFc7gnJ-s9miIf8eWEK3BMYsh4fSD8wo0jKDwqHb3CpSgfEDtKRJ0RuWyFKKDYekefY-88ykggcimh8XyzAjUwX8vnIgY_CPCvkQGxTTKtiIiYg_OPQzpyUaNclxUCxElEJ4SmxElfKDyu932DGSWG3oxk2)
 
-- **용량**: 1.5L
-- **소재**: 세라믹 코팅
-- **가격**: 24,840원
-- **배송**: 로켓배송
+- <strong>용량</strong>: 1.5L
+- <strong>소재</strong>: 세라믹 코팅
+- <strong>가격</strong>: 24,840원
+- <strong>배송</strong>: 로켓배송
 
 쿠잉전자 미니 멀티쿠커는 소형이지만 기능이 뛰어나서 1~2인 가구에 적합합니다. 가볍고 컴팩트한 디자인 덕분에 주방에서 이동이 용이하며, 세라믹 코팅으로 인해 음식이 눌어붙지 않아 세척도 간편합니다. 매일 간단한 요리를 하는 직장인이나 대학생에게 적합합니다. 리뷰 점수는 4.7점으로, 많은 사용자들이 가성비를 칭찬하고 있습니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7214285779&itemId=18265546869&vendorItemId=85411933969&traceid=V0-153-c51ebeaf8faf38d0&clickBeacon=4bed7b70-5cef-11f1-a832-2236af522d6b%7E3&requestid=20260531215026543320975563&token=31850C%7CMIXED)
 
 ## 2위: 퓨어라인 세라믹 코팅 올인원 멀티쿠커 — 다양한 요리에 적합
 ![퓨어라인 세라믹 코팅 올인원 멀티쿠커](https://ads-partners.coupang.com/image1/4gIxqlPK5cgXZBRF4krE1_q5thnE2ccnBLL9d7ko_VDRZ24upRk1u-QnY26pgxumYRcFkp89VvqSPXShQENGhyazBhxiVnN09VchJVU0HKnkf0_6oEcYFeW5VHgYatA78QwGfM4WrAitbDqsR9ADKYnFY0fqYNUrvrf4SeZEl0tyQnmU41GdKuxzLzDkIGV0mPQjY232Oou-hVPHq8l2GFXlgGw3cbsGp8_nHPMnDjRVHJF2MUunWayd6HGtjPRqOMXEXJ8UWki4cDBHGxQl4pBfOuNuRlHC1fQkmf1kSLWkwxVKE2puC8Pl)
 
-- **용량**: 2.0L
-- **소재**: 세라믹 코팅
-- **가격**: 65,800원
-- **배송**: 로켓배송
+- <strong>용량</strong>: 2.0L
+- <strong>소재</strong>: 세라믹 코팅
+- <strong>가격</strong>: 65,800원
+- <strong>배송</strong>: 로켓배송
 
 퓨어라인 세라믹 코팅 올인원 멀티쿠커는 다양한 요리를 할 수 있는 중형 모델입니다. 2.0L의 용량으로 3~4인 가구에 적합하며, 세라믹 코팅으로 인해 건강한 요리가 가능합니다. 주말에 가족과 함께 다양한 음식을 만들고 싶은 분들에게 이상적입니다. 또한, 세척이 용이해 바쁜 주말에도 손쉽게 요리할 수 있습니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8849704395&itemId=25796906645&vendorItemId=94065789819&traceid=V0-153-b2474dab5a0ae987&clickBeacon=4bed7b70-5cef-11f1-b471-08f89c3dd70e%7E3&requestid=20260531215026543320975563&token=31850C%7CMIXED)
 
 ## 3위: 키친아트 사각 전기 멀티쿠커 — 대용량 요리에 최적
 ![키친아트 사각 전기 멀티쿠커](https://ads-partners.coupang.com/image1/fBRGA3_shY4UnH2vfP4iOlSU6Tmr1yo4b3FOz4IRQtl512w6_tsw4lnMWjYJbsflQRMHRRtTRqSiUDFJge9x50Jz16hMdxkn5Ry2kWDXqWPWh22_CQsoQ0KmQhmzk0KO4-v-68geQCGbz4x8nBNN_iAHGr4f0TovBFVQSqNKRZukeXcU0G0GFkpWDQuD0G9_Mbk7EuwU5qJuVv8quHhFTLdqVzQVrduDlGUEM4OydSGahH_ODFX-W6LgBqWWqablBT1ZbC_-kvbBnJd7MgcAJZ9nkDQSrzNqQFs=)
 
-- **용량**: 4.0L
-- **소재**: 스테인리스
-- **가격**: 88,900원
-- **배송**: 로켓배송
+- <strong>용량</strong>: 4.0L
+- <strong>소재</strong>: 스테인리스
+- <strong>가격</strong>: 88,900원
+- <strong>배송</strong>: 로켓배송
 
 키친아트 사각 전기 멀티쿠커는 대용량으로, 여러 가지 요리를 한 번에 할 수 있는 장점이 있습니다. 4.0L의 넉넉한 용량 덕분에 가족 모임이나 손님 초대 시 유용하게 사용할 수 있습니다. 스테인리스 소재로 내구성이 뛰어나고, 다양한 요리를 할 수 있는 기능이 많아 요리 초보자도 쉽게 사용할 수 있습니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=6285419828&itemId=12925801658&vendorItemId=92061639797&traceid=V0-153-ab4fbeda285c1425&clickBeacon=4b38d170-5cef-11f1-98e3-19013c7a9dc1%7E3&requestid=20260531215025302187129529&token=31850C%7CMIXED)
 
