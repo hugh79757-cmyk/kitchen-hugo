@@ -39,7 +39,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 1구 하이라이트 전기레인지 — 가장 부담 없는 입문용 3만 원짜리
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="1구 하이라이트 전기레인지" caption="1구 하이라이트 전기레인지" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/15735897517ad677.webp" alt="1구 하이라이트 전기레인지" caption="1구 하이라이트 전기레인지" >}}
 최저가 29,900원으로 전기레인지 중 가장 저렴한 진입 장벽입니다. 하이라이트 방식이라 일반 냄비도 사용할 수 있어 인덕션용 냄비가 따로 없는 분께 적합합니다. <strong>장점</strong>은 가격과 간편함, <strong>아쉬운 점</strong>은 화력이 인덕션보다 약해 끓는 속도가 다소 느리다는 것입니다. 기숙사나 원룸에서 라면만 끓이는 정도면 충분하지만, 본격적인 요리를 원한다면 인덕션을 고려하세요. 리뷰는 4점대를 유지하며 로켓배송으로 다음 날 바로 받을 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9261893060&itemId=27404530413&vendorItemId=95653121112&traceid=V0-153-a920073247ade6da&requestid=20260712115038609222061405&token=31850C%7CMIXED)
@@ -48,7 +48,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 독일 프리미엄 초고속 1구 인덕션 — 빠른 화력 원하는 1인 가구에 딱
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="독일 프리미엄 초고속 1구 인덕션" caption="독일 프리미엄 초고속 1구 인덕션" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/341a0b604fee7dbc.webp" alt="독일 프리미엄 초고속 1구 인덕션" caption="독일 프리미엄 초고속 1구 인덕션" >}}
 64,900원으로 1구 인덕션 중 가격 대비 화력이 우수한 모델입니다. 초고속 발열을 내세워 물 끓임이나 볶음 요리에서 확실한 차이를 느낄 수 있습니다. 변변한 인덕션 하나만 있으면 되는 1인 가구에게 안성맞춤입니다. 스퀘어 디자인으로 주방 인테리어에도 잘 어울리며, 타이머 기능이 있어 요리 시간을 정해두고 다른 일을 할 수 있습니다. 인덕션 전용 용기가 필요하므로 기존 냄비가 호환되는지 확인이 필요합니다. 쿠팡 순위 1위일 정도로 인기가 높습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8583496188&itemId=24881726009&vendorItemId=91924261068&traceid=V0-153-69c578291fc70de1&clickBeacon=7645c490-7d9c-11f1-a73c-0f70753c749a%7E3&requestid=20260712115037768254118620&token=31850C%7CMIXED)
@@ -67,7 +67,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 나비엔매직 인덕션 3구 ERI-3603AF — 주방 리모델링까지 고려한 빌트인
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="나비엔매직 인덕션 3구" caption="나비엔매직 인덕션 3구" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/b7df20bad764ac92.webp" alt="나비엔매직 인덕션 3구" caption="나비엔매직 인덕션 3구" >}}
 268,450원, 쿠팡 인덕션 카테고리 1위 제품입니다. 3구 인덕션으로 빌트인 설치가 가능해 주방 공간을 깔끔하게 정리하고 싶은 분에게 적합합니다. 나비엔매직은 가스레인지로 유명한 브랜드로, 인덕션 내구성에 대한 신뢰가 높습니다. 세 구 모두 인덕션 방식이라 화력이 빠르고 고른 열 분포를 보여줍니다. 다만 빌트인 설치는 별도 공사가 필요할 수 있으므로 설치 전에 주방 상판 규격을 확인하세요. 배송은 로켓배송으로 빠르고, 네이버 최저가 265,500원보다 쿠팡 가격이 유리할 때가 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9057929475&itemId=26590854281&vendorItemId=93564136066&traceid=V0-153-535470d4b2cb2398&clickBeacon=76c72990-7d9c-11f1-a5c8-bb717445b8cf%7E3&requestid=20260712115038609222061405&token=31850C%7CMIXED)
@@ -76,7 +76,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: 웰치 3구 전기레인지 (빌트인) — 인덕션+하이라이트 하이브리드
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="웰치 3구 전기레인지" caption="웰치 3구 전기레인지" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/fa089c2126386e30.webp" alt="웰치 3구 전기레인지" caption="웰치 3구 전기레인지" >}}
 398,000원으로 가장 프리미엄 라인업입니다. 3구 구성 중 일부가 인덕션, 일부가 하이라이트로 되어 있어 용기 호환성이 뛰어납니다. 예를 들어 인덕션 전용 냄비로 빠르게 끓이고, 하이라이트 구역에는 일반 냄비를 사용해 찌개를 오래 끓일 수 있습니다. 빌트인 타입이라 인테리어 효과도 좋습니다. 화이트 색상이라 주방이 밝아 보입니다. 가격 부담이 있지만, 다양한 용기를 자유롭게 쓰고 싶은 4인 이상 가족이나 주방을 새로 꾸미는 분께 추천합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7939989640&itemId=26026375049&vendorItemId=95721642829&traceid=V0-153-8bae4e437e8d42c0&clickBeacon=7645c490-7d9c-11f1-a4ba-2dd3ab1675f3%7E3&requestid=20260712115037768254118620&token=31850C%7CMIXED)

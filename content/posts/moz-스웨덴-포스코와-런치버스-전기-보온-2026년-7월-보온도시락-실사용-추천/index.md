@@ -41,7 +41,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 런치버스 전기 보온도시락 — 사무실에서 따뜻하게 데우는 실속형
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="런치버스 전기 보온도시락" caption="런치버스 전기 보온도시락" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/9d67689e22699dc1.webp" alt="런치버스 전기 보온도시락" caption="런치버스 전기 보온도시락" >}}
 전기로 직접 가열하는 방식이라 점심시간 10분 전에 전원만 켜면 따뜻한 밥을 먹을 수 있습니다. 콘센트만 있으면 전자레인지가 필요 없어서 사무실이나 공용 주방 줄서기가 부담스러운 분에게 특히 좋습니다. 21,900원이라는 가격에 전기 보온 기능이 포함되어 가격 대비 만족도가 높습니다.
 
 - <strong>장점:</strong> 전기 데우기 가능, 가격이 저렴, 간편한 조작
@@ -53,7 +53,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 다용도 4단 보온도시락 — 전자레인지 사용 가능한 가성비 파워
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="다용도 4단 보온도시락" caption="다용도 4단 보온도시락" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/b289757617c007c3.webp" alt="다용도 4단 보온도시락" caption="다용도 4단 보온도시락" >}}
 21,600원에 4단 구성, 로켓배송까지 더해져 경제적이면서도 실용적입니다. 4단이라 밥, 국, 반찬 2가지를 깔끔하게 나눠 담을 수 있고, 전자레인지 사용이 가능한 소재로 되어 있습니다. 다만 스테인리스가 아닌 플라스틱 계열일 가능성이 높으므로 고온에 강한지 확인 후 사용하는 것이 좋습니다.
 
 - <strong>장점:</strong> 4단으로 분리 용이, 전자레인지 사용 가능, 로켓배송
@@ -65,7 +65,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 트윙고 클로버 보온도시락 5종 세트 — 세트 구성이 알찬 올라운더
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="트윙고 클로버 보온도시락" caption="도시락 용기 5종이 한 세트로, 본체와 뚜껑, 수저, 파우치가 모두 포함되어 있습니다. 블랙에디션 디자인이 세련되어 사무실에서도 거리낌 없이 사용할 수 있습니다. 42,400원이라는 가격에 5종 구성을 감안하면 각각 따로 사는 것보다 합리적입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/48ca3f57aae360d5.webp" alt="트윙고 클로버 보온도시락" caption="도시락 용기 5종이 한 세트로, 본체와 뚜껑, 수저, 파우치가 모두 포함되어 있습니다. 블랙에디션 디자인이 세련되어 사무실에서도 거리낌 없이 사용할 수 있습니다. 42,400원이라는 가격에 5종 구성을 감안하면 각각 따로 사는 것보다 합리적입니다." >}}
 - <strong>장점:</strong> 5종 풀세트, 깔끔한 디자인, 로켓배송
 - <strong>아쉬운 점:</strong> 보온 성능이 진공 단열 수준은 아니므로 보온백을 함께 사용해야 함
 
@@ -75,7 +75,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 코코리브 3단 대용량 스테인리스 보온백 세트 — 든든한 용량이 필요한 분에게
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="코코리브 3단 대용량" caption="스테인리스 소재의 3단 도시락에 보온백이 함께 제공됩니다. 보온백이 있어 따로 가방을 구매할 필요 없고, 대용량이라 식사량이 많은 분이나 점심 외에 간식까지 챙기는 분에게 적합합니다. 49,210원으로 스테인리스와 보온백이 포함된 점을 고려하면 무난한 가격입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/ebb6d5c6affaa272.webp" alt="코코리브 3단 대용량" caption="스테인리스 소재의 3단 도시락에 보온백이 함께 제공됩니다. 보온백이 있어 따로 가방을 구매할 필요 없고, 대용량이라 식사량이 많은 분이나 점심 외에 간식까지 챙기는 분에게 적합합니다. 49,210원으로 스테인리스와 보온백이 포함된 점을 고려하면 무난한 가격입니다." >}}
 - <strong>장점:</strong> 스테인리스 용기, 보온백 포함, 3단 대용량
 - <strong>아쉬운 점:</strong> 무게가 다소 나가며, 보온백 세탁이 번거로울 수 있음
 
@@ -85,7 +85,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: MOZ 스웨덴 포스코 316 올스텐 보온도시락 — 최고급 소재에 깔끔한 디자인
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="MOZ 스웨덴 포스코 316" caption="MOZ 스웨덴 포스코 316" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/f59c90dcb4e07cb0.webp" alt="MOZ 스웨덴 포스코 316" caption="MOZ 스웨덴 포스코 316" >}}
 스웨덴 MOZ 브랜드의 이 제품은 포스코 316 스테인리스를 사용한 점이 가장 큰 특징입니다. 316 스테인리스는 의료용으로도 쓰일 만큼 안전성이 높아, 매일 도시락을 싸는 분에게 장기적으로 신뢰할 수 있습니다. 3종 구성에 전용 도시락가방과 수저까지 포함되어 있고, 크림아이보리 색상이 고급스럽습니다. 쿠팡 랭킹 2위, 로켓배송 가능하며 네이버 최저가 59,900원으로 정가보다 저렴하게 구할 수 있습니다.
 
 - <strong>장점:</strong> 316 스테인리스 소재, 세트 구성 완벽, 디자인 고급, 로켓배송

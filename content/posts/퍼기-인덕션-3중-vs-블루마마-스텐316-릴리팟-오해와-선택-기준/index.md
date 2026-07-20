@@ -40,28 +40,28 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 퍼기 인덕션 3중 스텐 이유식 편수냄비 — 이유식 전용으로 설계된 실속형
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="퍼기 인덕션 3중 스텐 이유식 편수 냄비" caption="퍼기 인덕션 3중 스텐 이유식 편수 냄비" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/50429eaca981155a.webp" alt="퍼기 인덕션 3중 스텐 이유식 편수 냄비" caption="퍼기 인덕션 3중 스텐 이유식 편수 냄비" >}}
 인덕션 주방에서 이유식을 준비하는 엄마라면 이 냄비 하나면 충분합니다. 17.2cm 크기는 소량의 죽이나 야채 으깨기를 만들기에 알맞고, 3중 스테인리스 구조가 열을 고르게 전달해 타지 않도록 도와줍니다. 쿠팡에서 1위를 차지한 이유는 로켓배송으로 26,900원이라는 가격에 구매할 수 있다는 점입니다. 다만 전용 찜기가 포함되지 않아 찜 요리를 원한다면 별도 구매가 필요합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7910282021&itemId=21702915550&vendorItemId=88899769522&traceid=V0-153-3a1eb9d713d987fa&clickBeacon=617de930-7daa-11f1-9121-2f72419dd81d%7E3&requestid=20260712133015794054452108&token=31850C%7CMIXED)
 
 ## 2위: 르메이드 스텐 케틀팟 주전자 — 2L 대용량을 1만 원대에
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="스텐 케틀팟 주전자 스텐냄비" caption="스텐 케틀팟 주전자 스텐냄비" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/dafcbf7265bfa34f.webp" alt="스텐 케틀팟 주전자 스텐냄비" caption="스텐 케틀팟 주전자 스텐냄비" >}}
 차와 커피를 자주 마시는 가정이라면 주전자 하나쯤은 별도로 마련하는 게 편리합니다. 이 제품은 2L 용량으로 넉넉하고, 스테인리스 소재로 내구성이 좋으며 인덕션과 가스레인지 모두에서 쓸 수 있습니다. 가격이 14,800원으로 가장 저렴한데, 네이버 최저가는 27,630원이니 쿠팡에서 로켓배송으로 사면 1만 원 이상 절약됩니다. 다만 냄비용 손잡이가 달려 있어 주전자 전용 주둥이를 기대했다면 디자인이 다소 투박하게 느껴질 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8682651703&itemId=25205296616&vendorItemId=95503879494&traceid=V0-153-7f840b0047569168&clickBeacon=617de930-7daa-11f1-9479-885ac507f30c%7E3&requestid=20260712133015794054452108&token=31850C%7CMIXED)
 
 ## 3위: CookBuddy 304 스텐 찜기 이유식 냄비 — 찜 기능까지 한 번에
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="CookBuddy 304 스텐 찜기 이유식 냄비" caption="CookBuddy 304 스텐 찜기 이유식 냄비" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/61ec2aae130cbd76.webp" alt="CookBuddy 304 스텐 찜기 이유식 냄비" caption="CookBuddy 304 스텐 찜기 이유식 냄비" >}}
 이유식을 만들면서 동시에 찜 요리까지 해결하고 싶다면 이 제품이 좋은 선택입니다. 16cm 304 스테인리스 냄비에 찜기가 함께 들어 있어, 야채찜이나 만두를 찌는 데 활용할 수 있습니다. 가격은 29,900원으로 퍼기 제품과 비슷하지만 찜기가 포함되어 있어 구성 대비 가격이 괜찮은 편입니다. 유백색 디자인이 주방 분위기를 부드럽게 만들어주는 점도 장점입니다. 다만 16cm로 사이즈가 작아 2인 이상 가정에서는 부족할 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9099561385&itemId=26748527499&vendorItemId=93719639864&traceid=V0-153-158bddacce29345c&clickBeacon=617de930-7daa-11f1-9f10-76acce22048f%7E3&requestid=20260712133015794054452108&token=31850C%7CMIXED)
 
 ## 4위: 블루마마 인덕션 스텐316 무연마제 편수냄비 + 찜기 + 뚜껑 세트 — 최상급 소재와 완벽 세트
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="블루마마 인덕션 스텐316 무연마제 편수냄비 + 찜기 + 뚜껑 세트" caption="블루마마 인덕션 스텐316 무연마제 편수냄비 + 찜기 + 뚜껑 세트" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/220b54f2f0eeb750.webp" alt="블루마마 인덕션 스텐316 무연마제 편수냄비 + 찜기 + 뚜껑 세트" caption="블루마마 인덕션 스텐316 무연마제 편수냄비 + 찜기 + 뚜껑 세트" >}}
 가장 높은 가격대이지만 그만큼 소재와 구성에서 확실한 차이가 있습니다. 316 스테인리스는 산과 염분에 강하고 변색이 적어, 매일 사용해도 오래 새것처럼 유지됩니다. 게다가 편수냄비 본체, 찜기, 뚜껑이 모두 포함된 세트라 이유식부터 국, 찜까지 한 세트로 모든 조리가 가능합니다. 17.5cm 크기는 1인 가구나 신혼부부에게 이상적입니다. 네이버 최저가 89,000원보다 쿠팡에서 78,000원으로 1만 원 이상 저렴하게 판매 중입니다. 다만 예산이 넉넉하지 않다면 3만 원 이하 제품으로도 충분히 만족할 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8856591527&itemId=25822306954&vendorItemId=92809202410&traceid=V0-153-baf1b4cd4affe7d6&clickBeacon=617de930-7daa-11f1-9142-c3a235a57dc3%7E3&requestid=20260712133015794054452108&token=31850C%7CMIXED)

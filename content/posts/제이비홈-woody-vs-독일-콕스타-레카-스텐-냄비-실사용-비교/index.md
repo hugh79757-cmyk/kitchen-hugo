@@ -30,28 +30,28 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 제이비홈 Woody 우디 IH 스텐 멀티 팟 3종 세트 — 주방 필수 3종을 한 번에
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="제이비홈 Woody 우디 IH 스텐 멀티 팟 3종 세트" caption="제이비홈 Woody 우디 IH 스텐 멀티 팟 3종 세트" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/fb336c3432f28a67.webp" alt="제이비홈 Woody 우디 IH 스텐 멀티 팟 3종 세트" caption="제이비홈 Woody 우디 IH 스텐 멀티 팟 3종 세트" >}}
 이 제품은 편수냄비 18cm와 20cm, 그리고 멀티플레이트까지 포함된 3종 세트입니다. 주 3~4회 이상 요리하는 3인 가족이라면 18cm는 국이나 찌개, 20cm는 파스타나 찜 요리로 활용할 수 있어 실용적입니다. 스테인리스 소재라 인덕션을 포함한 모든 열원에서 사용 가능하고, 내구성이 좋아 오래 쓸 수 있다는 장점이 있습니다. 다만 뚜껑이 별도 구성인지 확인이 필요하고, 세트 가격이 89,000원으로 단품 대비 부담이 있을 수 있습니다. 로켓배송으로 빠르게 받을 수 있고, 쿠팡 주방용품 1위 제품이라 구매자 만족도가 높습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8401050129&itemId=24284497940&vendorItemId=91342859485&traceid=V0-153-a79a4fb026b7ef5b&clickBeacon=2ea7e4d0-7d40-11f1-ad76-bbbb261075f8%7E3&requestid=20260712005003883107929952&token=31850C%7CMIXED)
 
 ## 2위: 독일 콕스타 비엔나 블루 인덕션 법랑 코팅 편수냄비 16cm — 감성 주방에 어울리는 블루 컬러
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="독일 콕스타 비엔나 블루" caption="독일 콕스타 비엔나 블루" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/1fe50054c9cb5fc4.webp" alt="독일 콕스타 비엔나 블루" caption="독일 콕스타 비엔나 블루" >}}
 퇴근 후 혼자 라면이나 간단한 국을 끓이는 1인 가구라면 16cm 크기가 딱 맞습니다. 법랑 코팅이라 눌어붙음이 적고 열전도율이 좋아 빠르게 끓일 수 있습니다. 블루 컬러 디자인이 주방 인테리어에 포인트를 주고 싶은 분들에게 특히 매력적입니다. 인덕션 사용이 가능해 전기레인지에서도 문제없습니다. 아쉬운 점은 법랑 코팅이 충격에 약해 떨어뜨리면 깨질 수 있고, 16cm 단일 사이즈라 2인 이상 요리에는 다소 작을 수 있습니다. 무료배송으로 부담 없이 구매할 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7993952952&itemId=22229473836&vendorItemId=87030846081&traceid=V0-153-00fa789236db74b3&clickBeacon=2ea80be0-7d40-11f1-bb61-6148ea6457eb%7E3&requestid=20260712005003883107929952&token=31850C%7CMIXED)
 
 ## 3위: 독일 콕스타 메탈리카 인덕션 편수 냄비 16CM — 모던한 메탈 디자인
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="독일 콕스타 메탈리카" caption="독일 콕스타 메탈리카" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/831825d9d0fbd545.webp" alt="독일 콕스타 메탈리카" caption="독일 콕스타 메탈리카" >}}
 비엔나와 같은 콕스타 브랜드의 메탈리카는 실버 메탈 디자인으로 모던한 주방에 잘 어울립니다. 16cm 크기로 1인 가구나 간단한 요리에 적합하며, 법랑 코팅 소재로 인덕션과 가스레인지 모두 사용 가능합니다. 열전도율이 높아 물이 빨리 끓고, 세척도 비교적 쉬운 편입니다. 비엔나와 스펙은 거의 동일하지만 디자인 차이가 있어 취향에 따라 선택하면 됩니다. 다만 79,000원 가격대가 부담스러울 수 있고, 법랑 코팅의 내구성에 주의해야 합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8263044822&itemId=23806098322&vendorItemId=90829957881&traceid=V0-153-d7486df669429849&clickBeacon=2ea80be0-7d40-11f1-bb06-5ade1635a07d%7E3&requestid=20260712005003883107929952&token=31850C%7CMIXED)
 
 ## 4위: 레카 스텐 편수 냄비 16cm/1200ml 계량눈금 멀티팟 — 가격 대비 실속형
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="레카 스텐 편수 냄비 16cm" caption="레카 스텐 편수 냄비 16cm" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/b821e4489cf57d39.webp" alt="레카 스텐 편수 냄비 16cm" caption="레카 스텐 편수 냄비 16cm" >}}
 예산을 최대한 아끼면서도 실용적인 스텐 편수냄비를 찾는다면 이 제품이 정답입니다. 22,600원이라는 가격에 1200ml 용량, 계량눈금이 있어 라면이나 국물 요리 시 물 양 조절이 편리합니다. 스테인리스 소재로 내구성이 좋고, 가스레인지와 전기레인지에서 사용 가능합니다. 다만 인덕션 사용이 불가능하므로 인덕션을 쓰는 가정이라면 다른 제품을 고려해야 합니다. 16cm 크기는 1~2인 가구에 적합하며, 가격 대비 실속을 중시하는 분들에게 추천합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7073119837&itemId=16918958812&vendorItemId=84096850129&traceid=V0-153-e5056709cdf275fe&requestid=20260712005003883107929952&token=31850C%7CMIXED)

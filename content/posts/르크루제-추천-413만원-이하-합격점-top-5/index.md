@@ -43,7 +43,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 짐샌더슨 테라조 컬러 커팅보드 — 인테리어와 실용성을 한 번에
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="짐샌더슨 테라조 컬러 커팅보드" caption="짐샌더슨 테라조 컬러 커팅보드는 주방 인테리어를 고려하는 분에게 추천합니다. 테라조 특유의 점박이 패턴이 모던한 주방과 잘 어울리며, S사이즈로 과일이나 빵 정도를 썰기에 적당한 크기입니다. 블랙&화이트 컬러라 어떤 주방 스타일에도 무난하게 매치됩니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/dae2b586f231fc9b.webp" alt="짐샌더슨 테라조 컬러 커팅보드" caption="짐샌더슨 테라조 컬러 커팅보드는 주방 인테리어를 고려하는 분에게 추천합니다. 테라조 특유의 점박이 패턴이 모던한 주방과 잘 어울리며, S사이즈로 과일이나 빵 정도를 썰기에 적당한 크기입니다. 블랙&화이트 컬러라 어떤 주방 스타일에도 무난하게 매치됩니다." >}}
 <strong>장점</strong>: 인테리어 효과가 뛰어나고, 표면이 단단해 칼집이 잘 나지 않습니다. <strong>아쉬운 점</strong>: S사이즈라 큰 재료를 다루기에는 다소 작습니다. 네이버 최저가 56,800원보다 쿠팡 로켓배송 가격 46,000원이 더 저렴하니 빠르게 받아보고 싶다면 쿠팡을 활용하는 것이 유리합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9276278051&itemId=27460093701&vendorItemId=94647626147&traceid=V0-153-9ced1381d6ca2b23&clickBeacon=b32fa9a0-7d35-11f1-a25b-0a7543634ac0%7E3&requestid=20260711233501742273657462&token=31850C%7CMIXED)
@@ -52,7 +52,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 코렐코디네이츠 브리즈스톤 라면기 4종 세트 — 혼밥족을 위한 실속 세트
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="코렐코디네이츠 브리즈스톤 라면기 4종 세트" caption="주말마다 라면이나 우동을 끓여 먹는 혼밥족에게 딱 맞는 제품입니다. 그린, 블루, 퍼플, 핑크 4가지 파스텔 컬러가 식탁을 화사하게 만들어 줍니다. 코렐 소재는 가볍고 얇으면서도 내구성이 좋아 일상에서 부담 없이 사용할 수 있습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/c61d20806d81cd90.webp" alt="코렐코디네이츠 브리즈스톤 라면기 4종 세트" caption="주말마다 라면이나 우동을 끓여 먹는 혼밥족에게 딱 맞는 제품입니다. 그린, 블루, 퍼플, 핑크 4가지 파스텔 컬러가 식탁을 화사하게 만들어 줍니다. 코렐 소재는 가볍고 얇으면서도 내구성이 좋아 일상에서 부담 없이 사용할 수 있습니다." >}}
 <strong>장점</strong>: 4가지 색상으로 구성원별로 나눠 쓰기 좋고, 전자레인지와 식기세척기 사용이 가능해 편리합니다. <strong>아쉬운 점</strong>: 라면기로만 구성되어 있어 국그릇이나 밥공기로는 활용이 제한적입니다. 네이버 최저가 62,700원과 비슷한 수준으로 로켓배송이 가능해 필요할 때 바로 받을 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7937195267&itemId=21800099314&vendorItemId=88848687129&traceid=V0-153-3cbe5cc9575d2b11&clickBeacon=b32fd0b0-7d35-11f1-99f8-ff5c81f8b8df%7E3&requestid=20260711233501742273657462&token=31850C%7CMIXED)
@@ -61,13 +61,13 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 코렐코디네이츠 브리즈스톤 찬기 4종 세트 — 반찬을 예쁘게 담고 싶다면
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="코렐코디네이츠 브리즈스톤 찬기 4종 세트" caption="---" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/da8a90241618cf14.webp" alt="코렐코디네이츠 브리즈스톤 찬기 4종 세트" caption="---" >}}
 ## 4위: 트루쿡 시그니처 플렉스 TPU 도마 — 위생에 진심인 주방
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="트루쿡 시그니처 플렉스 TPU 도마" caption="---" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/5fd80506ceae233c.webp" alt="트루쿡 시그니처 플렉스 TPU 도마" caption="---" >}}
 ## 5위: 코렐코디네이츠 브리즈스톤 식기세트 12p — 신혼부부의 첫 식기
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="코렐코디네이츠 브리즈스톤 식기세트 12p" caption="코렐코디네이츠 브리즈스톤 식기세트 12p" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/31c101d29c26afd4.webp" alt="코렐코디네이츠 브리즈스톤 식기세트 12p" caption="코렐코디네이츠 브리즈스톤 식기세트 12p" >}}
 집들이를 준비하거나 새 출발을 하는 신혼부부에게 가장 추천하는 제품입니다. 공기 2개, 대접 2개, 종지 2개, 찬기 2개, 접시 2개, 머그 2개로 총 12개의 구성이라 2인 가정이 사용하기에 딱 맞습니다. 핑크 컬러로 통일되어 있어 따로 맞출 필요 없이 한 세트로 식탁을 완성할 수 있습니다.
 
 <strong>장점</strong>: 12개 모두 코렐 소재로 가볍고 내구성이 좋으며, 전자레인지와 식기세척기 사용이 가능합니다. <strong>아쉬운 점</strong>: 13만 원대 가격이 부담스러울 수 있지만, 개당 단가로 보면 1만 원대 초반으로 실속 있는 선택입니다. 로켓배송으로 주문 다음 날 받을 수 있습니다.

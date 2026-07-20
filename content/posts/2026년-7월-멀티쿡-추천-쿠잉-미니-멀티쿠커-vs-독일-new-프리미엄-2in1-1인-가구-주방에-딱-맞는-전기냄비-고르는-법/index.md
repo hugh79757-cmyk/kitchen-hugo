@@ -37,7 +37,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 쿠잉전자 미니 멀티쿠커 CPO-1522MT — 1인 가구의 든든한 아침 식사 파트너
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="쿠잉전자 미니 멀티쿠커 CPO-1522MT" caption="1.5L 용량의 이 제품은 혼자 사는 직장인에게 안성맞춤입니다. 출근 전 라면이나 떡국을 끓일 때 큰 냄비 대신 꺼내 쓰기 좋고, 설거지 부담도 적습니다. 24,900원이라는 가격은 부담 없이 첫 멀티쿠커를 구매하려는 분들에게 특히 합격점입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/135fbbb4a555acd7.webp" alt="쿠잉전자 미니 멀티쿠커 CPO-1522MT" caption="1.5L 용량의 이 제품은 혼자 사는 직장인에게 안성맞춤입니다. 출근 전 라면이나 떡국을 끓일 때 큰 냄비 대신 꺼내 쓰기 좋고, 설거지 부담도 적습니다. 24,900원이라는 가격은 부담 없이 첫 멀티쿠커를 구매하려는 분들에게 특히 합격점입니다." >}}
 <strong>장점:</strong> 로켓배송으로 다음 날 바로 받을 수 있고, 쿠팡 멀티쿠커 카테고리 3위에 오를 만큼 구매자들의 반응이 좋습니다. 전용 포트라 전기세 걱정도 덜고, 1인용으로 딱 맞는 크기입니다.
 
 <strong>아쉬운 점:</strong> 찜 기능이 따로 없어서, 만두나 야채를 찌려면 별도 찜망이 필요합니다. 2인 이상 가족이 사용하기엔 다소 작습니다.
@@ -50,7 +50,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 독일 NEW 프리미엄 2in1 멀티쿠커 — 찜과 끓임을 동시에, 자취생의 주방 공간 절약템
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="독일 NEW 프리미엄 2in1 멀티쿠커" caption="독일 NEW 프리미엄 2in1 멀티쿠커" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/8bf65c3d132e8dc6.webp" alt="독일 NEW 프리미엄 2in1 멀티쿠커" caption="독일 NEW 프리미엄 2in1 멀티쿠커" >}}
 이 제품은 2단 찜기 구조로 아래에서는 국이나 찌개를 끓이고, 위에서는 만두나 야채를 찔 수 있습니다. 퇴근 후 간단히 밥과 반찬을 한 번에 해결하고 싶은 자취생에게 실용적입니다. 쿠팡 멀티쿠커 부문 1위 제품으로, 40,900원의 가격은 2in1 기능을 고려하면 가격 대비 만족도가 높습니다.
 
 <strong>장점:</strong> 찜기와 냄비를 하나로 합쳐 주방 공간을 절약할 수 있습니다. 로켓배송으로 빠르게 받을 수 있고, 네이버 최저가 36,900원보다 저렴하게 구매 가능합니다.
@@ -65,7 +65,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 5세대 유해물질 ZERO 세라믹 멀티쿠커 — 건강을 생각하는 싱글족을 위한 선택
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="5세대 유해물질 ZERO 세라믹 멀티쿠커" caption="5세대 유해물질 ZERO 세라믹 멀티쿠커" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/a5cf1c5d1c56a8ce.webp" alt="5세대 유해물질 ZERO 세라믹 멀티쿠커" caption="5세대 유해물질 ZERO 세라믹 멀티쿠커" >}}
 이 제품은 세라믹 코팅을 적용해 유해물질 걱정을 줄였습니다. 2단 구조로 찜과 끓임을 동시에 할 수 있고, 49,000원의 가격은 세라믹 소재와 5세대 코팅 기술을 고려하면 합리적인 수준입니다. 건강에 민감한 분들이나 아이가 있는 가정에서도 안심하고 사용할 수 있습니다.
 
 <strong>장점:</strong> 세라믹 코팅은 일반 코팅보다 긁힘에 강하고, PFOA 등 유해물질이 검출되지 않아 안심하고 사용할 수 있습니다. 네이버 최저가 34,000원보다 비싸 보이지만, 2단 세라믹 멀티쿠커 중에서는 오히려 경쟁력 있는 가격입니다.

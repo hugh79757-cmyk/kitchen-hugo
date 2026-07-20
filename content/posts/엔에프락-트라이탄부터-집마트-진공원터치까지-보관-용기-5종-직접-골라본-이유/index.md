@@ -31,35 +31,35 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: ROYAI ONE 유리 원두 보관용기 — 9,900원 가격에 유리 용기, 일상용으로 실속
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="ROYAI ONE 유리 원두 보관용기" caption="ROYAI ONE 유리 원두 보관용기" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/11a30bfe3c562199.webp" alt="ROYAI ONE 유리 원두 보관용기" caption="ROYAI ONE 유리 원두 보관용기" >}}
 커피 원두나 견과류, 간식을 자주 드시는 분이라면 이 제품이 딱입니다. 유리 소재로 내용물이 한눈에 보이고, 뚜껑에 날짜를 적을 수 있어 개봉일을 관리하기 편합니다. 단품 9,900원이라는 가격은 유리 용기 중 가장 부담 없는 수준이며, 로켓배송으로 다음 날 받을 수 있습니다. 아쉬운 점은 진공 기능이 없어 장기 보관용보다는 소량 일상 보관에 적합하다는 것입니다. 주 1~2회 원두를 갈아 마시는 가정이라면 가격 대비 만족도가 높습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9423422986&itemId=28009911875&vendorItemId=95478308574&traceid=V0-153-bd4e925d95259348&requestid=20260715145614792023843896&token=31850C%7CMIXED)
 
 ## 2위: 데비마이어 그린 밀폐용기 — 9,930원, 유리 본체에 실리콘 밀폐링이 매력
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="데비마이어 그린 밀폐용기" caption="데비마이어 그린 밀폐용기" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/2f7ce9ba09926f26.webp" alt="데비마이어 그린 밀폐용기" caption="데비마이어 그린 밀폐용기" >}}
 데비마이어 그린 밀폐용기는 유리 본체에 그린 색상의 밀폐 뚜껑이 특징입니다. 뚜껑 실리콘 패킹이 밀착력을 높여주어 간단한 찬장 보관이나 냉장고 정리에 안성맞춤입니다. 9,930원으로 가격이 매우 저렴하면서도 로켓배송이 가능합니다. 단, 진공 기능은 없고 일반 밀폐용기이므로 김치나 장기 숙성용보다는 조리 후 남은 반찬을 하루 이틀 보관하는 용도에 적합합니다. 전자레인지 사용이 가능한지 확인이 필요하지만(상품명에 명시되지 않음), 가벼운 용도로는 이 가격에 더 바랄 게 없습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9583249979&itemId=28606411125&vendorItemId=95549933480&traceid=V0-153-a516bfec56b6112b&requestid=20260715145614792023843896&token=31850C%7CMIXED)
 
 ## 3위: 유워닛 프레쉬 커피 유리 진공 밀폐용기 — 22,400원, 커피 원두 신선도 유지에 특화
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="유워닛 프레쉬 커피 유리 진공 밀폐용기" caption="유워닛 프레쉬 커피 유리 진공 밀폐용기" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/cb1fd5ee22d3426f.webp" alt="유워닛 프레쉬 커피 유리 진공 밀폐용기" caption="유워닛 프레쉬 커피 유리 진공 밀폐용기" >}}
 이름에서 알 수 있듯이 커피 원두를 위한 진공 밀폐용기입니다. 유리 본체에 진공 기능이 있어 한번 밀봉하면 외부 공기를 차단해 원두 향과 신선함을 오래 유지해줍니다. 22,400원으로 단품 가격이 다소 있지만, 전문가 수준의 커피 취향을 가진 분이나 소량으로 고가 원두를 보관하는 분에게는 충분히 투자할 가치가 있습니다. 로켓배송으로 빠르게 받을 수 있고, 뚜껑 디자인이 깔끔해 주방 인테리어에도 잘 어울립니다. 아쉬운 점은 용량이 정확히 명시되지 않아 자신이 보관할 양과 맞는지 확인이 필요하다는 것입니다. 하루 2~3잔의 커피를 내려 마시는 가정이라면 이 제품 하나로 충분합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9572146439&itemId=28570683373&vendorItemId=95545607242&traceid=V0-153-be40ee7eaeac85cd&clickBeacon=e3bbc890-8011-11f1-92cf-526165026cb9%7E3&requestid=20260715145614792023843896&token=31850C%7CMIXED)
 
 ## 4위: 집마트 진공원터치 밀폐용기 3종B — 43,900원, 버튼 하나로 진공 밀폐, 가성비 세트
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="집마트 진공원터치 밀폐용기" caption="집마트 진공원터치 밀폐용기" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/61b37b9ff05697be.webp" alt="집마트 진공원터치 밀폐용기" caption="집마트 진공원터치 밀폐용기" >}}
 집마트 진공원터치 밀폐용기는 손잡이를 원터치로 눌러 내부 공기를 빼내는 방식입니다. 3종 세트로 구성되어 있어 냉장고에 자주 넣는 반찬통이나 곡물통으로 활용하기 좋습니다. 43,900원이라는 가격은 진공 기능을 갖춘 세트 중에서는 합리적인 편이며, 네이버 최저가 28,400원까지 확인되어 더 부담 없이 구입할 수 있습니다. 아쉬운 점은 진공 원터치 방식이 일반 밀폐용기보다 뚜껑이 다소 두꺼워 쌓아 보관할 때 공간 효율이 떨어질 수 있다는 것입니다. 하지만 주 2~3회 이상 나물이나 장아찌를 담가 드시는 분이라면 신선도 유지에 확실한 도움을 줍니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8316459362&itemId=24001227210&vendorItemId=92376986236&traceid=V0-153-42690133f433ba2d&clickBeacon=e4528a50-8011-11f1-9f8e-6d9676ecadb5%7E3&requestid=20260715145615729239824773&token=31850C%7CMIXED)
 
 ## 5위: 엔에프락 트라이탄 밀폐용기 수납마스터 15P 추천세트 — 169,000원, 주방 전체를 한 번에 정리
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="엔에프락 트라이탄 밀폐용기" caption="엔에프락 트라이탄 밀폐용기" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/9bd0d9132337b706.webp" alt="엔에프락 트라이탄 밀폐용기" caption="엔에프락 트라이탄 밀폐용기" >}}
 엔에프락 트라이탄은 BPA-free 트라이탄 소재로 만들어져 내구성이 좋고 투명도가 높아 내용물이 선명하게 보입니다. 15P 세트는 다양한 크기의 용기가 들어 있어 밀가루, 설탕, 잡곡부터 반찬, 냉장고 정리까지 한 번에 해결할 수 있습니다. 가격은 169,000원으로 부담스러울 수 있지만 네이버 최저가 152,100원에 구매 가능하며, 로켓배송으로 빠르게 받을 수 있습니다. 아쉬운 점은 진공 기능이 없고 일반 밀폐 용기라는 점입니다. 또한 15개 모두를 실제로 다 사용할지 고민이 필요합니다. 하지만 주방 수납을 체계적으로 바꾸고 싶고, 한 번 사서 오래 쓰고 싶은 분에게는 단품으로 여러 개 사는 것보다 이 세트가 오히려 실용적입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9518199340&itemId=28371275680&vendorItemId=95481666058&traceid=V0-153-1377623d97adf8ca&clickBeacon=e3bba180-8011-11f1-9675-330005c11fea%7E3&requestid=20260715145614792023843896&token=31850C%7CMIXED)

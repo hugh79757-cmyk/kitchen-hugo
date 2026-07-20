@@ -45,7 +45,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 리쿡 멀티쿠커 스팀 전기 2in1 — 부담 없는 가격에 시작하는 실속형
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="리쿡 멀티쿠커" caption="리쿡 멀티쿠커" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/7ae8a1fe5ad1f107.webp" alt="리쿡 멀티쿠커" caption="리쿡 멀티쿠커" >}}
 혼자 사는 직장인이라면 저녁에 라면 하나 끓이거나 간단한 찜 요리를 해먹고 싶을 때가 많습니다. 리쿡 2in1 전기냄비는 가격이 18,590원으로 부담 없이 첫 전기냄비를 시작하기 좋습니다. 스팀 기능이 있어 만두나 야채를 찌는 것도 가능하고, 작은 크기라 1인용으로 안성맞춤입니다.
 
 <strong>장점</strong>  
@@ -63,7 +63,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 키친아트 사각 전기 멀티쿠커 KNG-440NK — 사각형 디자인의 실용 멀티 쿠커
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="키친아트 사각 멀티쿠커" caption="키친아트 사각 멀티쿠커" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/eae3af670baca91c.webp" alt="키친아트 사각 멀티쿠커" caption="키친아트 사각 멀티쿠커" >}}
 가족과 함께 사는 집이라면 국물 요리나 찜 요리를 조금 더 넉넉하게 만들어야 합니다. 키친아트 사각 멀티쿠커는 사각형 내부 공간 덕분에 네모난 김발이나 긴 야채도 자유롭게 넣을 수 있고, 부피 대비 수용량이 넉넉합니다. 88,900원으로 중간 가격대에서 다용도로 활용하기 좋습니다.
 
 <strong>장점</strong>  
@@ -81,7 +81,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: VisuLink 2in1 멀티 전기 냄비 1.5L — 2단 화력으로 증조리와 핫팟 모두 OK
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="VisuLink 2in1 멀티 전기 냄비" caption="VisuLink 2in1 멀티 전기 냄비" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/5c5e94fb49fec5bc.webp" alt="VisuLink 2in1 멀티 전기 냄비" caption="VisuLink 2in1 멀티 전기 냄비" >}}
 1인 가구이지만 라면 외에도 찜 요리나 핫팟(샤브샤브)을 즐기고 싶다면 VisuLink 2in1이 제격입니다. 1.5L 용량에 2단계 화력 조절이 가능해 강한 불로 빠르게 끓인 후 약한 불로 유지할 수 있습니다. 증조리 일체형이라 찜기 없이도 야채나 만두를 찔 수 있습니다.
 
 <strong>장점</strong>  
@@ -99,7 +99,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 엔유씨 멀티압력쿠커 NPC-600K — 압력 조리로 밥·찜·찌개를 한 번에
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="엔유씨 멀티압력쿠커" caption="엔유씨 멀티압력쿠커" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/f39b6541019d0285.webp" alt="엔유씨 멀티압력쿠커" caption="엔유씨 멀티압력쿠커" >}}
 취사와 찜, 찌개를 모두 빠르게 조리하고 싶다면 압력 기능이 있는 전기냄비가 정답입니다. 엔유씨 멀티압력쿠커는 압력 조리 기능으로 밥을 10분 안에 짓거나, 갈비찜 같은 요리를 한결 빠르게 완성할 수 있습니다. 122,020원으로 가격은 다소 높지만, 기능을 고려하면 실속 있는 투자입니다.
 
 <strong>장점</strong>  

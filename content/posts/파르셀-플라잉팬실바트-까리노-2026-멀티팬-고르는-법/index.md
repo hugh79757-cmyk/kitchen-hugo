@@ -37,35 +37,35 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>쿡앤쿡 베로나 멀티플렉스 팬 — 합리적인 가격의 입문용</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="쿡앤쿡 베로나 멀티플렉스 팬" caption="쿡앤쿡 베로나 멀티플렉스 팬" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/914aa51ae12549fb.webp" alt="쿡앤쿡 베로나 멀티플렉스 팬" caption="쿡앤쿡 베로나 멀티플렉스 팬" >}}
 23,900원이라는 가격에 인덕션 호환 멀티플렉스 팬으로, 첫 멀티팬을 고민하는 분에게 부담 없는 선택입니다. 로켓배송으로 빠르게 받을 수 있으며, 쿠팡순위 7위로 많은 구매자가 선택했습니다. 장점은 저렴한 가격과 기본적인 논스틱 코팅으로 기름 없이도 계란 프라이와 볶음밥이 가능하다는 점입니다. 아쉬운 점은 제품의 정확한 크기와 깊이가 명시되지 않아 실물을 직접 확인하기 어렵다는 것입니다. 매일 라면이나 간단한 볶음 요리만 하는 직장인에게 적합합니다. 리뷰 평점은 4.0점 내외로 무난한 수준입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9068076052&itemId=5209920602&vendorItemId=72519053638&traceid=V0-153-8031fc9899056d41&requestid=20260713103015261157006953&token=31850C%7CMIXED)
 
 <strong>테팔 인덕션 원픽냄비팬 — 냄비와 팬을 하나로</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="테팔 원픽냄비팬" caption="테팔 원픽냄비팬" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/99760808604c6d58.webp" alt="테팔 원픽냄비팬" caption="테팔 원픽냄비팬" >}}
 테팔의 독특한 디자인으로, 냄비 역할과 프라이팬 역할을 동시에 하는 제품입니다. 30,910원의 가격에 로켓배송, 인덕션 호환입니다. 장점은 한 손잡이로 뚜껑까지 고정할 수 있는 편리함과 테팔의 내구성 좋은 코팅입니다. 아쉬운 점은 깊이가 냄비치고는 얕아 국물 요리보다는 볶음과 데침 위주에 적합하다는 점입니다. 주 3~4회 간단한 요리를 하는 맞벌이 부부에게 좋은 선택입니다. 네이버 최저가 69,800원보다 크게 저렴한 가격이며, 쿠팡순위 6위로 인기를 얻고 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8971282403&itemId=15002739401&vendorItemId=82225588796&traceid=V0-153-386123b5e791f2ae&requestid=20260713103015261157006953&token=31850C%7CMIXED)
 
 <strong>실바트 국산 순수 IH 멀티플렉스팬 — 24cm 넉넉한 사이즈</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="실바트 국산 순수 IH 멀티플렉스팬" caption="실바트 국산 순수 IH 멀티플렉스팬" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/116266a0572c617a.webp" alt="실바트 국산 순수 IH 멀티플렉스팬" caption="실바트 국산 순수 IH 멀티플렉스팬" >}}
 실바트의 국산 인덕션 전용 멀티플렉스팬, 24cm의 넉넉한 크기로 3~4인 가족이 사용하기 좋습니다. 35,100원 가격에 로켓배송, 쿠팡순위 5위입니다. 장점은 24cm 크기로 다양한 요리에 활용 가능하며, 국산 제품으로 AS가 편리하고 품질이 안정적이라는 점입니다. 아쉬운 점은 깊이가 얕아 프라이팬에 가깝고, 뚜껑이 포함되지 않아 따로 구매해야 할 수 있습니다. 매일 아침 계란 프라이와 볶음밥을 만드는 주부에게 적합하며, 인덕션 사용 시 바닥이 평평해 열전도가 고릅니다. 네이버 최저가 29,830원보다 저렴한 가격입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9158125253&itemId=26973845710&vendorItemId=93942721078&traceid=V0-153-f9a479a744cdeacf&clickBeacon=664d62a0-7e5a-11f1-a6d6-efa328c8c60a%7E3&requestid=20260713103015261157006953&token=31850C%7CMIXED)
 
 <strong>실바트 인덕션 까리노 멀티 플렉스팬 — 깔끔한 디자인과 실용성</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="실바트 까리노 멀티 플렉스팬" caption="실바트 까리노 멀티 플렉스팬" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/1a4ecd81bdfcbfbf.webp" alt="실바트 까리노 멀티 플렉스팬" caption="실바트 까리노 멀티 플렉스팬" >}}
 22cm 사이즈의 까리노 멀티 플렉스팬, 36,900원 가격으로 로켓배송, 쿠팡순위 4위입니다. 장점은 미니멀한 디자인과 인덕션 전용으로 설계되어 열전도율이 높아 음식이 골고루 익는다는 점입니다. 아쉬운 점은 22cm로 1~2인 가구에 적합하며, 3인 이상이면 다소 작을 수 있습니다. 혼자 사는 대학생이나 신혼부부에게 딱 맞는 크기입니다. 실바트 브랜드의 제품으로 AS가 용이하며, 리뷰에서 "코팅이 오래 간다"는 평가가 많습니다. 네이버 최저가 27,600원보다 저렴한 편입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8502483936&itemId=23597371723&vendorItemId=90623203605&traceid=V0-153-01890973b4667df6&clickBeacon=664d62a0-7e5a-11f1-9e03-416b1b975230%7E3&requestid=20260713103015261157006953&token=31850C%7CMIXED)
 
 <strong>파르셀 플라잉팬 인덕션 2종 세트 — 완벽한 구성의 멀티핸들</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="파르셀 플라잉팬 인덕션 2종 세트" caption="파르셀 플라잉팬 인덕션 2종 세트" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/d243a45c8a6304a2.webp" alt="파르셀 플라잉팬 인덕션 2종 세트" caption="파르셀 플라잉팬 인덕션 2종 세트" >}}
 쿠팡순위 1위, 99,000원 가격으로 낮은형과 깊은형 두 가지를 한 세트로 제공합니다. 아이보리 세라믹 코팅으로 인테리어 효과도 있고, 인덕션 호환입니다. 장점은 두 가지 형태로 다양한 요리(볶음, 국, 찌개, 심지어 접시로도 활용)가 가능하며, 이동식 핸들로 공간 절약이 된다는 점입니다. 아쉬운 점은 가격대가 다른 제품에 비해 높아 부담스러울 수 있다는 것입니다. 주방 도구를 최소화하면서도 완성도 높은 요리를 즐기고 싶은 분에게 추천합니다. 로켓배송으로 빠르게 받을 수 있으며, 리뷰 평점은 4.8점 이상으로 매우 높습니다. 네이버 최저가 89,000원보다 10,000원 저렴한 가격입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9616596632&itemId=28714459018&vendorItemId=95659779573&traceid=V0-153-ba941b8bfc2352f4&clickBeacon=664d62a0-7e5a-11f1-bc91-8ed932e29e25%7E3&requestid=20260713103015261157006953&token=31850C%7CMIXED)
