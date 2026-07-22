@@ -1,14 +1,21 @@
 ---
-title: "계란후라이팬 고민된다면? 지금 사야 하는 BEST 5 — 트루쿡, 루몬 4구 에그팬"
-date: 2026-07-05T17:31:05+09:00
+title: 계란후라이팬 고민된다면? 지금 사야 하는 BEST 5 트루쿡, 루몬 4구 에그팬
+date: 2026-07-05 17:31:05+09:00
 draft: false
-description: "2026년 7월, 아침마다 달걀을 굽다 보면 후라이팬 하나로 해결되지 않는 순간이 찾아옵니다. 계란말이를 만들자니 너무 크고, 4개를 동시에 굽자니 팬이 부족하고, 인덕션에 맞는 제품을 찾자니 종류가 너무 많습니다.  실제 구매자 평가와 스펙을 꼼꼼히 비교해 지금 가장 합리적인 계란후라"
-slug: "계란후라이팬-고민된다면-지금-사야-하는-best-5-트루쿡-루몬-4구-에그팬"
-categories: ['추천']
-tags: ['트루쿡', '계란후라이팬', '아이젠베르그', '로얄스타']
+description: 2026년 7월, 아침마다 달걀을 굽다 보면 후라이팬 하나로 해결되지 않는 순간이 찾아옵니다. 계란말이를 만들자니 너무 크고,
+  4개를 동시에 굽자니 팬이 부족하고, 인덕션에 맞는 제품을 찾자니 종류가 너무 많습니다.  실제 구매자 평가와 스펙을 꼼꼼히 비교해 지금 가장
+  합리적인 계란후라
+slug: 계란후라이팬-고민된다면-지금-사야-하는-best-5-트루쿡-루몬-4구-에그팬
+categories:
+- 추천
+tags:
+- 트루쿡
+- 계란후라이팬
+- 아이젠베르그
+- 로얄스타
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4d17b699362bbb2a.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4d17b699362bbb2a.webpefault-thumbnail.webp"
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4d17b699362bbb2a.webp
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4d17b699362bbb2a.webpefault-thumbnail.webp
 ---
 {{< lead >}}
 2026년 7월, 아침마다 달걀을 굽다 보면 후라이팬 하나로 해결되지 않는 순간이 찾아옵니다. 계란말이를 만들자니 너무 크고, 4개를 동시에 굽자니 팬이 부족하고, 인덕션에 맞는 제품을 찾자니 종류가 너무 많습니다.  실제 구매자 평가와 스펙을 꼼꼼히 비교해 지금 가장 합리적인 계란후라이팬 5가지를 추천합니다.

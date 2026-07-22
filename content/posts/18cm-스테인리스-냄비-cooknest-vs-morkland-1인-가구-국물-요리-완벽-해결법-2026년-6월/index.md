@@ -1,12 +1,21 @@
 ---
-title: "18cm 스테인리스 냄비, CookNest vs MorkLand – 1인 가구 국물 요리 완벽 해결법 (2026년 6월)"
-slug: '18cm-스테인리스-냄비-cooknest-vs-morkland-1인-가구-국물-요리-완벽-해결법-2026년-6월'
+title: 18cm 스테인리스 냄비, CookNest vs MorkLand 1인 가구 국물 요리 완벽 해결법 (2026년 6월)
+slug: 18cm-스테인리스-냄비-cooknest-vs-morkland-1인-가구-국물-요리-완벽-해결법-2026년-6월
 date: '2026-06-24T21:31:44+09:00'
 draft: false
-description: "18cm 스테인리스 냄비를 찾다 보면, \"코팅 냄비는 건강이 걱정되고, 무거운 전골냄비는 혼자 쓰기엔 부담스럽다\"는 고민에 빠지기 쉽습니다. 특히 자취생이나 소규모 가구는 딱 맞는 크기와 튼튼한 소재를 동시에 갖춘 제품을 원하죠. <strong>2026년 6월 기준</strong>, 스테인리스 냄비 18cm"
-tags: ['냄비', '추천', '스테인리스 냄비 추천 18cm', '스테인리스', '티쉐프', '도루코']
-categories: ['추천']
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/06/24/db11511a.webp"
+description: 18cm 스테인리스 냄비를 찾다 보면, "코팅 냄비는 건강이 걱정되고, 무거운 전골냄비는 혼자 쓰기엔 부담스럽다"는 고민에
+  빠지기 쉽습니다. 특히 자취생이나 소규모 가구는 딱 맞는 크기와 튼튼한 소재를 동시에 갖춘 제품을 원하죠. <strong>2026년 6월 기준</strong>,
+  스테인리스 냄비 18cm
+tags:
+- 냄비
+- 추천
+- 스테인리스 냄비 추천 18cm
+- 스테인리스
+- 티쉐프
+- 도루코
+categories:
+- 추천
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/06/24/db11511a.webp
 ---
 
 

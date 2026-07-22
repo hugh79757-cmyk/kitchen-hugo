@@ -1,11 +1,10 @@
 export default {
-  async fetch(request, env, ctx) {
-    const url = new URL(request.url);
+  async fetch(request, env) {
     try {
-      const response = await env.ASSETS.fetch(url.pathname);
-      return response;
+      const url = new URL(request.url);
+      return await env.ASSETS.fetch(url.pathname);
     } catch (e) {
-      return new Response('Error', { status: 500 });
+      return new Response('Not Found', { status: 404 });
     }
-  }
+  },
 };
