@@ -1,23 +1,6 @@
 {{/* Kitchen-Hugo Custom JS */}}
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  // ── Scroll Fade-in (Intersection Observer) ──
-  const fadeEls = document.querySelectorAll('article, .post-entry, .kitchen-hero');
-  if (fadeEls.length) {
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('fade-in-section', 'is-visible');
-          observer.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
-    fadeEls.forEach(el => {
-      el.classList.add('fade-in-section');
-      observer.observe(el);
-    });
-  }
-
   // ── Smooth Scroll for anchor links ──
   document.querySelectorAll('a[href^="#"]').forEach(a => {
     a.addEventListener('click', function(e) {
