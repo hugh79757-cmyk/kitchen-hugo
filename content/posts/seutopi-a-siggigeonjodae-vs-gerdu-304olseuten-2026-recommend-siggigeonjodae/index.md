@@ -14,7 +14,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
 <div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/대성쎌틱듀플렉스-1등급-제습기-추천-19l20l-실속-선택-가이드-2026년-7월/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🔌 1등급 제습기 추천</a>
-<a href="https://interior.informationhot.kr/posts/2026년-7월-2층-침대-추천-일루일루-코지스칸디아-시몬-14만원대부터-73만원대까지-실속-비교/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🛋️ 2층 침대 추천</a>
+<a href="https://interior.informationhot.kr/posts/2cheung-bed-recommend-illu-illu-kojiseukandi-a-simon-14man-wondaebuteo-73man-wondae-kkaji-practical-compare/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🛋️ 2층 침대 추천</a>
 </div>
 </div>
 
@@ -84,8 +84,8 @@ GERDU 304올스텐 식기 건조대는 39,800원으로 대용량 설거지 그�
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
 <a href="https://appliance.informationhot.kr/posts/대성쎌틱듀플렉스-1등급-제습기-추천-19l20l-실속-선택-가이드-2026년-7월/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 1등급 제습기 추천</a>
-<a href="https://interior.informationhot.kr/posts/2026년-7월-2층-침대-추천-일루일루-코지스칸디아-시몬-14만원대부터-73만원대까지-실속-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 2층 침대 추천</a>
+<a href="https://interior.informationhot.kr/posts/2cheung-bed-recommend-illu-illu-kojiseukandi-a-simon-14man-wondaebuteo-73man-wondae-kkaji-practical-compare/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 2층 침대 추천</a>
 <a href="https://baby.informationhot.kr/posts/유닛키즈-쏘서-3in1-vs-브라이트스타트-바운스-액티비티-아기-쏘서-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 쏘서 추천</a>
-<a href="https://health.informationhot.kr/posts/2026년-7월-뼈-건강-영양제-추천-광동삼성제약-실속부터-고함량까지/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 뼈 건강 영양제 추천</a>
+<a href="https://health.informationhot.kr/posts/ppyeo-geongang-supplement-recommend-insake-eo-teunteunhan-chi-a-vs-ssiseupang-jointpalpal-peulleoseu/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 뼈 건강 영양제 추천</a>
 </div>
 </div>

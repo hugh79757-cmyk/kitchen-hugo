@@ -18,8 +18,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/20260725-게이밍/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🔌 게이밍 추천</a>
-<a href="https://interior.informationhot.kr/posts/20260725-10만원대-매트리스-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🛋️ 10만원대 매트리스 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/lojitegg-vs-seuka-i-woseu-ge-iming-ibmun-2man-wondae-mousewa-180hz-monitor-recommend/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🔌 게이밍 추천</a>
+<a href="https://interior.informationhot.kr/posts/10man-wondae-mattress-recommend-dibmong-jachwi-wonlum-mattress/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🛋️ 10만원대 매트리스 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -152,10 +152,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://appliance.informationhot.kr/posts/20260725-게이밍/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 게이밍 추천</a>
-<a href="https://interior.informationhot.kr/posts/20260725-10만원대-매트리스-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 10만원대 매트리스 추천</a>
-<a href="https://baby.informationhot.kr/posts/20260725-신생아-기저귀-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 신생아 기저귀 추천</a>
-<a href="https://health.informationhot.kr/posts/20260725-중년-건강식품-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 중년 건강식품 추천</a>
+<a href="https://appliance.informationhot.kr/posts/lojitegg-vs-seuka-i-woseu-ge-iming-ibmun-2man-wondae-mousewa-180hz-monitor-recommend/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 게이밍 추천</a>
+<a href="https://interior.informationhot.kr/posts/10man-wondae-mattress-recommend-dibmong-jachwi-wonlum-mattress/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 10만원대 매트리스 추천</a>
+<a href="https://baby.informationhot.kr/posts/sinsaeng-a-gijeogwi-recommend-hagiseu-2026-ne-icheome-ideu-vs-hagiseu-ne-icheome-ideubambu/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 신생아 기저귀 추천</a>
+<a href="https://health.informationhot.kr/posts/2026-jungnyeon-geongangsigpum-recommend-heunhan-ohae-3gaji-hwangjegilyeoghansam-in/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 중년 건강식품 추천</a>
 </div>
 </div>
 

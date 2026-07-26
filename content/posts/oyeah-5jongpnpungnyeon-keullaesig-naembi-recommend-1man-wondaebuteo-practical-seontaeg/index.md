@@ -18,8 +18,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/20260723-가정용청소기가방/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🔌 가정용청소기가방 추천</a>
-<a href="https://interior.informationhot.kr/posts/20260723-가구느낌가구밸리다용도테이블가방/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🛋️ 가구느낌가구밸리다용도테이블가방 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/소형-제습기-추천-1위-린보-가정용-소형-vs-2위-한경희-원룸-미니/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🔌 가정용청소기가방 추천</a>
+<a href="https://interior.informationhot.kr/posts/퀸-침대-프레임-추천-동서가구-이즈-카이와-아너스-led-침대프레임-비교/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🛋️ 가구느낌가구밸리다용도테이블가방 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -152,10 +152,10 @@ PN풍년 클래식 양수냄비, FANOBO 투피스 세트, 오로라 통3중 편�
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://appliance.informationhot.kr/posts/20260723-가정용청소기가방/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 가정용청소기가방 추천</a>
-<a href="https://interior.informationhot.kr/posts/20260723-가구느낌가구밸리다용도테이블가방/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 가구느낌가구밸리다용도테이블가방 추천</a>
-<a href="https://baby.informationhot.kr/posts/20260723-아기-침대-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 침대 추천</a>
-<a href="https://health.informationhot.kr/posts/20260723-혈행-개선-영양제-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 혈행 개선 영양제 추천</a>
+<a href="https://appliance.informationhot.kr/posts/소형-제습기-추천-1위-린보-가정용-소형-vs-2위-한경희-원룸-미니/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 가정용청소기가방 추천</a>
+<a href="https://interior.informationhot.kr/posts/퀸-침대-프레임-추천-동서가구-이즈-카이와-아너스-led-침대프레임-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 가구느낌가구밸리다용도테이블가방 추천</a>
+<a href="https://baby.informationhot.kr/posts/teulimigopeoniko-agi-bed-recommend-best-5-2026-july-eomseon/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 침대 추천</a>
+<a href="https://health.informationhot.kr/posts/hyeolhaeng-gaeseon-supplement-recommend-baleunnyuteuli-jinsenkyu-vs-yuhanmedika-jingko-peulimi-eom/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 혈행 개선 영양제 추천</a>
 </div>
 </div>
 

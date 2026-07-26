@@ -20,8 +20,8 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-left:4px solid #ea580c;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/20260722-1등급-제습기-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🔌 1등급 제습기 추천 추천</a>
-<a href="https://interior.informationhot.kr/posts/20260722-평상형-침대-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🛋️ 평상형 침대 추천 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/대성쎌틱듀플렉스-1등급-제습기-추천-19l20l-실속-선택-가이드-2026년-7월/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🔌 1등급 제습기 추천 추천</a>
+<a href="https://interior.informationhot.kr/posts/하모벨-삼나무-평상형-침대-가성비-최고의-선택/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🛋️ 평상형 침대 추천 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -133,10 +133,10 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://appliance.informationhot.kr/posts/20260722-1등급-제습기-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 1등급 제습기 추천 추천</a>
-<a href="https://interior.informationhot.kr/posts/20260722-평상형-침대-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 평상형 침대 추천 추천</a>
-<a href="https://baby.informationhot.kr/posts/20260722-전동-바운서-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 전동 바운서 추천 추천</a>
-<a href="https://health.informationhot.kr/posts/20260722-간-건강-영양제-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 간 건강 영양제 추천 추천</a>
+<a href="https://appliance.informationhot.kr/posts/대성쎌틱듀플렉스-1등급-제습기-추천-19l20l-실속-선택-가이드-2026년-7월/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 1등급 제습기 추천 추천</a>
+<a href="https://interior.informationhot.kr/posts/하모벨-삼나무-평상형-침대-가성비-최고의-선택/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 평상형 침대 추천 추천</a>
+<a href="https://baby.informationhot.kr/posts/헤라시스-전동바운서-vs-인제뉴어티-하이브리드-스윙2-2026년-전동-바운서-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 전동 바운서 추천 추천</a>
+<a href="https://health.informationhot.kr/posts/간-건강-영양제-추천-메타웰-리파포엑스-간에-좋은-영양제/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 간 건강 영양제 추천 추천</a>
 </div>
 </div>
 

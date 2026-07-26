@@ -23,8 +23,8 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-left:4px solid #ea580c;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/20260721-소형-제습기-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🔌 소형 제습기 추천 추천</a>
-<a href="https://interior.informationhot.kr/posts/20260721-가구밸리다용도테이블가방/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🛋️ 가구밸리다용도테이블가방 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/제습기-추천-2026-langdoo-22l-vs-포첸-12l-소형-제습기-비교-총정리/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🔌 소형 제습기 추천 추천</a>
+<a href="https://interior.informationhot.kr/posts/퀸-침대-프레임-추천-동서가구-이즈-카이와-아너스-led-침대프레임-비교/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#ea580c;font-weight:600;font-size:14px;margin-right:12px">🛋️ 가구밸리다용도테이블가방 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -118,10 +118,10 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://appliance.informationhot.kr/posts/20260721-소형-제습기-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 소형 제습기 추천 추천</a>
-<a href="https://interior.informationhot.kr/posts/20260721-가구밸리다용도테이블가방/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 가구밸리다용도테이블가방 추천</a>
-<a href="https://baby.informationhot.kr/posts/20260721-아기-카시트-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 카시트 추천 추천</a>
-<a href="https://health.informationhot.kr/posts/20260721-글루타치온-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 글루타치온 추천 추천</a>
+<a href="https://appliance.informationhot.kr/posts/제습기-추천-2026-langdoo-22l-vs-포첸-12l-소형-제습기-비교-총정리/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 소형 제습기 추천 추천</a>
+<a href="https://interior.informationhot.kr/posts/퀸-침대-프레임-추천-동서가구-이즈-카이와-아너스-led-침대프레임-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 가구밸리다용도테이블가방 추천</a>
+<a href="https://baby.informationhot.kr/posts/아기-카시트-추천-마드레마노-카시트-머리고정과-어린이-안전-의자/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 카시트 추천 추천</a>
+<a href="https://health.informationhot.kr/posts/여에스더-vs-닥터스에이징-2026년-7월-글루타치온-추천-비교-가이드/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 글루타치온 추천 추천</a>
 </div>
 </div>
 
