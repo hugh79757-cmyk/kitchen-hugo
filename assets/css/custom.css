@@ -3,120 +3,115 @@
 }
 /* === Kitchen-Hugo Custom Styles === */
 
-/* ── Color Palette (Kitchen Warm) ── */
+/* ── Color Palette (Soft Pastel Kitchen) ── */
 :root {
-  --kitchen-primary: #ea580c;
-  --kitchen-primary-light: #f97316;
-  --kitchen-primary-dark: #c2410c;
-  --kitchen-accent: #65a30d;
+  --kitchen-primary: #d97706;
+  --kitchen-primary-light: #f59e0b;
+  --kitchen-primary-dark: #b45309;
+  --kitchen-accent: #10b981;
   --kitchen-warm: #fef3c7;
   --kitchen-cream: #fffbeb;
-  --kitchen-brown: #78350f;
+  --kitchen-brown: #92400e;
+  --page-bg: #faf9f6;
+  --card-bg: #ffffff;
 }
 
-/* ── Hero Section ── */
+/* ── Global Page Background (Soft Pastel) ── */
+body {
+  background-color: var(--page-bg) !important;
+  background-image: none !important;
+}
+
+/* ── Hero Section (Subtle Pastel) ── */
 .kitchen-hero {
   position: relative;
-  background: linear-gradient(135deg, #fef3c7 0%, #ffedd5 30%, #fde68a 60%, #fef3c7 100%);
+  background: linear-gradient(135deg, #fefce8 0%, #fef3c7 40%, #fffbeb 100%);
   border-radius: 1.5rem;
   padding: 3rem 2rem;
   margin-bottom: 3rem;
-  overflow: hidden;
-  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05), 0 10px 15px -3px rgba(234,88,12,0.08);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
 }
 .kitchen-hero::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ea580c' fill-opacity='0.03'%3E%3Ccircle cx='30' cy='30' r='8'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-  pointer-events: none;
+  display: none;
 }
 
 .kitchen-hero-icon {
-  font-size: 4rem;
+  font-size: 3rem;
   line-height: 1;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
   display: inline-block;
-  animation: float 3s ease-in-out infinite;
-}
-
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-8px); }
+  animation: none;
 }
 
 .kitchen-hero h1 {
-  font-size: 2.5rem;
-  font-weight: 800;
-  background: linear-gradient(135deg, #ea580c, #d97706, #65a30d);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--kitchen-primary-dark);
   margin-bottom: 0.75rem;
+  background: none;
+  -webkit-text-fill-color: unset;
 }
 
 .kitchen-hero .subtitle {
-  font-size: 1.125rem;
-  color: #92400e;
+  font-size: 1rem;
+  color: #78716c;
   max-width: 32rem;
   line-height: 1.7;
 }
 
-
-
-/* ── Post Card Hover Effects ── */
+/* ── Post Card (No hover float) ── */
 article, .post-entry {
-  transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+  transition: box-shadow 0.2s ease !important;
+  transform: none !important;
 }
 article:hover, .post-entry:hover {
-  transform: translateY(-3px) !important;
-  box-shadow: 0 12px 24px -8px rgba(234,88,12,0.12) !important;
+  transform: none !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06) !important;
 }
 
-/* ── Floating Kitchen Decor ── */
+/* ── Floating Kitchen Decor: REMOVED ── */
 .kitchen-deco {
-  position: absolute;
-  opacity: 0.08;
-  font-size: 3rem;
-  pointer-events: none;
-  animation: float-slow 6s ease-in-out infinite;
+  display: none !important;
 }
-.kitchen-deco.d1 { top: 10%; right: 8%; animation-delay: 0s; }
-.kitchen-deco.d2 { bottom: 15%; right: 15%; animation-delay: 2s; font-size: 2rem; }
-.kitchen-deco.d3 { top: 20%; left: 5%; animation-delay: 4s; font-size: 2.5rem; }
-
+.kitchen-deco.d1,
+.kitchen-deco.d2,
+.kitchen-deco.d3 {
+  display: none !important;
+}
+@keyframes float {
+  0%, 100% { transform: none; }
+}
 @keyframes float-slow {
-  0%, 100% { transform: translateY(0) rotate(0deg); }
-  50% { transform: translateY(-12px) rotate(3deg); }
+  0%, 100% { transform: none; }
 }
 
-/* ── Kitchen-themed Tags ── */
+/* ── Kitchen-themed Tags (Soft Pastel) ── */
 .tag-badge {
   display: inline-block;
   padding: 0.2rem 0.75rem;
   border-radius: 9999px;
   font-size: 0.75rem;
   font-weight: 500;
-  background: linear-gradient(135deg, #fef3c7, #ffedd5);
-  color: #9a3412;
-  border: 1px solid #fed7aa;
+  background: #fef3c7;
+  color: #92400e;
+  border: 1px solid #fde68a;
   margin: 0.125rem;
   transition: all 0.2s;
 }
 .tag-badge:hover {
-  background: linear-gradient(135deg, #fed7aa, #fdba74);
-  border-color: #fb923c;
+  background: #fde68a;
+  border-color: #fcd34d;
 }
 
-/* ── Back to Top ── */
+/* ── Back to Top (Soft) ── */
 #scroll-to-top {
   transition: all 0.3s ease !important;
 }
 #scroll-to-top a {
-  background: linear-gradient(135deg, #ea580c, #f97316) !important;
-  color: white !important;
+  background: #d97706 !important;
+  color: #fff !important;
   border: none !important;
-  box-shadow: 0 4px 12px rgba(234,88,12,0.25);
+  box-shadow: 0 2px 8px rgba(217,119,6,0.2);
 }
 
 /* ── Responsive ── */
@@ -127,34 +122,33 @@ article:hover, .post-entry:hover {
   .kitchen-deco { display: none; }
 }
 
-/* ── Dark Mode ── */
+/* ── Dark Mode (Soft Pastel) ── */
 .dark .kitchen-hero {
-  background: linear-gradient(135deg, #1c1917 0%, #292524 30%, #451a03 60%, #1c1917 100%) !important;
-  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.3), 0 10px 15px -3px rgba(234,88,12,0.15);
+  background: linear-gradient(135deg, #292524 0%, #44403c 40%, #292524 100%) !important;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3);
 }
 .dark .kitchen-hero h1 {
-  background: linear-gradient(135deg, #fb923c, #fbbf24, #4ade80);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: #fbbf24;
+  background: none;
+  -webkit-text-fill-color: unset;
 }
 .dark .kitchen-hero .subtitle {
-  color: #d6d3d1;
+  color: #a8a29e;
 }
 .dark .kitchen-deco {
-  opacity: 0.12;
+  display: none !important;
 }
 .dark article:hover, .dark .post-entry:hover {
-  box-shadow: 0 12px 24px -8px rgba(251,146,60,0.15) !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3) !important;
 }
 .dark .tag-badge {
-  background: linear-gradient(135deg, #292524, #451a03);
-  color: #fdba74;
-  border-color: #78350f;
+  background: #44403c;
+  color: #fbbf24;
+  border-color: #57534e;
 }
 .dark .tag-badge:hover {
-  background: linear-gradient(135deg, #451a03, #7c2d12);
-  border-color: #c2410c;
+  background: #57534e;
+  border-color: #a8a29e;
 }
 
 .ad-inarticle {
@@ -200,11 +194,11 @@ article:hover, .post-entry:hover {
 html.dark ins.adsbygoogle { background: #fff !important; }
 .dark .ad-mobile-sticky { background: #fff; }
 
-/* ── Price Check Button ── */
+/* ── Price Check Button (Soft Pastel) ── */
 .btn-price-check {
   display: table;
   padding: 0.625rem 1.25rem;
-  background: #ea580c;
+  background: #d97706;
   color: #fff !important;
   font-weight: 600;
   font-size: 0.95rem;
@@ -215,18 +209,18 @@ html.dark ins.adsbygoogle { background: #fff !important; }
   margin: 1.5rem auto;
 }
 .btn-price-check:hover {
-  background: #c2410c;
-  box-shadow: 0 4px 12px rgba(234, 88, 12, 0.25);
+  background: #b45309;
+  box-shadow: 0 2px 8px rgba(217,110,6,0.2);
 }
 .btn-price-check:active {
-  background: #9a3412;
+  background: #92400e;
 }
 html.dark .btn-price-check {
-  background: #f97316;
+  background: #f59e0b;
 }
 html.dark .btn-price-check:hover {
-  background: #ea580c;
-  box-shadow: 0 4px 12px rgba(249, 115, 22, 0.3);
+  background: #d97706;
+  box-shadow: 0 2px 8px rgba(245,158,11,0.3);
 }
 
 /* ── Cross-Sell Card ── */
@@ -339,3 +333,5 @@ html.dark .cta-box {
 html.dark .cta-box p:last-child {
   color: #94a3b8;
 }
+
+.hero img,.article-hero img{object-fit:contain}
